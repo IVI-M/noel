@@ -1,0 +1,16 @@
+--- 
+title: "Bilingual Christmas songs"
+documentclass: book
+site: bookdown::bookdown_site
+subtitle: Chansons de Noel  bilangues
+description: Christmas song favourites for multi-lingual families, with chords
+---
+
+# Merry Christmas tout le monde ! {-}
+
+Also available as [pdf] and [epub]
+
+```{r, out.width='50%', fig.align='center', echo=FALSE}
+knitr::include_graphics("cover-xmas.jpg")
+
+```
