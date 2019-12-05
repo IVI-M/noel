@@ -1,0 +1,58 @@
+-- 
+title: "«Shri Jobim»"
+subtitle: "Tribute to Antonio Carlos Jobim in Ukrainian and Russian"
+author: "Dmitry Gorodnichy"
+date: "Version 1.3 (2019/11/10)"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+# output:
+#   bookdown::gitbook:
+#     includes:
+# #      in_header: html_header.html  # uncomment for javascript-pulldowns
+#     config:
+#       toc:
+#           collapse: section
+#           scroll_highlight: yes
+#           before: null
+#           after: null
+#       edit: https://github.com/Tazinho/Advanced-R-Solutions/edit/master/%s
+# 
+# documentclass: book --> ?? No <- causes Error in compiling tex file with Russian letters
+description: "Antonio Carlos Jobim songs re-interpreted by Dmitry Gorodnichy"
+github-repo: "gorodnichy/Shri-Jobim"
+url: 'http\://bookdown.org/gorodnichy/Noel'
+cover-image: "cover-xmas.jpg"
+---
+
+
+
+
+
+
+# Foreword / От автора {-}
+
+
+<i>This album contains my i
+Версия для печати:  [PDF](Shri-Jobim.pdf), [EPUB](Shri-Jobim.epub).   
+Online: https://bookdown.org/gorodnichy/jobim, [www.ivim.ca/dg/jobim](http://www.ivim.ca/dg/jobim).
+
+<!-- [Follow this album on Google+](https://plus.google.com/u/1/collection/Eg2aKE)  -->
+
+
+Книга сделана с использованием [R](https://www.rstudio.com/) and [bookdown](https://bookdown.org/). Источник на [github](https://github.com/gorodnichy/Shri-Jobim).
+
+
+
+
+# Merry Christmas tout le monde ! {-}
+
+Also available as [pdf] and [epub]
+
+```{r, out.width='50%', fig.align='center', echo=FALSE}
+knitr::include_graphics("cover-xmas.jpg")
+
+```
+
+Les 50 meilleures chansons de Noël 
+
+

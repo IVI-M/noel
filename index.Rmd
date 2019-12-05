@@ -2,11 +2,13 @@
 title: "Bilingual Christmas songs"
 documentclass: book
 site: bookdown::bookdown_site
-subtitle: Chansons de Noel  bilangues
-description: Christmas song favourites for multi-lingual families, with chords
+subtitle: "Chansons de Noël  bilangues"
+description: "Christmas song favourites for multi-lingual families, with chords"
+#date: "With chords"
+author: "Compiled by IVIM"
 ---
 
-# Merry Christmas tout le monde ! {-}
+# Intro {-}
 
 Also available as [pdf] and [epub]
 
@@ -14,3 +16,7 @@ Also available as [pdf] and [epub]
 knitr::include_graphics("cover-xmas.jpg")
 
 ```
+
+Les 50 meilleures chansons de Noël 
+
+Merry Christmas, tout le monde ! 

@@ -83,7 +83,7 @@ Jingle all the way
 Oh, what fun it is to ride
 In a one horse open sleigh
 ```
-Vive le vent
+## Vive le vent
 ```
 Sur le long chemin 
 Tout blanc de neige blanche 
@@ -105,13 +105,15 @@ Et bonne année grand-mère ...
 ```
 # O Tannenbaum 
 
+```
 O Tannenbaum, o Tannenbaum,
  Dein Kleid will mich was lehren:
  Die Hoffnung und Beständigkeit
  Gibt Mut und Kraft zu jeder Zeit!
  O Tannenbaum, o Tannenbaum,
  Dein Kleid will mich was lehren!
- 
+```
+
 ## Mon beau sapin
 ```
 Mon beau sapin, roi des forêts 
@@ -180,7 +182,7 @@ Petits gâteaux sucrés
 
 # Le p’tit renne au nez rouge 
 
-
+```
 -1-
 Quand la neige recouvre la verte Finlande 
 Et que les rennes traversent la lande 
@@ -229,10 +231,11 @@ On l'appelait Nez rouge
  Ainsi qu'une étoile au ciel
  C'est le nez de Nez rouge
  Annonçant le Père Noël ! 
-
+```
 
 ## Rudolph the red-nosed reindeer
 
+```
 Rudolph the Red Nosed Reindeer 
 Had a very shiny nose, 
 And if you ever saw it, 
@@ -252,13 +255,15 @@ All of the reindeer loved him,
 And they shouted out with glee
 Rudolph the Red Nosed Reindeer
 You’ll go down in History! X2
+```
 
-## Chords
+### Chords
 
 
 
 # C’est l’hiver / Let it snow
 
+```
 FRANÇAIS :
 
 Nous filons sur la neige blanche
@@ -287,13 +292,14 @@ Man it doesn't show signs of stoppin'
 And I brought some corn for poppin'
 The lights are turned way down low
 Let it snow, let it snow, let it snow
-
+```
 
 
 
 
 # Walking in a winter wonderland / Bonhomme hiver
 
+```
 ENGLISH:
 Sleigh bells ring
 Are you listening
@@ -330,13 +336,14 @@ Il dit vrai tout de même
 Près du feu, je t'emmène
 Allons nous chauffer dans l'intimité
 Au royaume du bonhomme hiver
-		
+```		
 
 
 
 
 # Petit Papa Noël
 
+```
 C'est la belle nuit de Noël
 La neige étend son manteau blanc
 Et les yeux levés vers le ciel
@@ -378,11 +385,12 @@ Quand tu descendras du ciel
 Avec des jouets par milliers
 N'oublie pas mon petit soulier.
 Petit papa Noël
-
+```
 
 
 # Douce Nuit Sainte Nuit / Silent night 
 
+```
 1.Be-elle nuit, sain-ainte nuit !
  Tout s'endort, plus de bruit.
 Veille seu-eul, le   couple sacré
@@ -403,7 +411,9 @@ Quel souri-ire dan-ans tes yeux,
 Tan-andis que pour l'ho-o-om-me 
 So-onne l'heure sainte, 
 L'heu-eure du-u salut ! 
+```
 
+```
 1. Silent night, holy night! 
 All is calm, all is bright. 
 Round yon Virgin, Mother and Child. 
@@ -424,10 +434,11 @@ Radiant beams from Thy holy face
 With dawn of redeeming grace, 
 Jesus Lord, at Thy birth. 
 Jesus Lord, at Thy birth.
-
+```
 
 # Feliz Navidad 
 
+```
 Español
 feliz navidad 
 feliz navidad 
@@ -459,15 +470,17 @@ feliz navidad
 feliz navidad 
 prospero año y felicidad
 
+
 I wanna wish you a merry Christmas
 I wanna wish you a merry Christmas
 I wanna wish you a merry Christmas
 From the bottom of my heart
-
+```
 
 
 # All I want for Christmas is you 
 
+```
 I don't want a lot for Christmas
 There's just one thing I need
 I don't care about the presents
@@ -538,10 +551,11 @@ More than you could ever know
 Make my wish come true
      Baby all I want for Christmas is...
 You
+```
 
 # Promenade en traîneau / Sleigh Ride
 
-
+```
 Au petit trot s'en va le cheval avec  ses grelots 
 et le traîneau joyeusement dévale à  travers les coteaux. 
 
@@ -578,10 +592,10 @@ flambe et nous attend.
 Au petit trot s'en va le cheval avec 
 ses grelots et le traîneau joyeusement 
 dévale à  travers les coteaux.
+```
 
 
-
-
+```
 Just hear those sleigh bells jingling,
 ring ting tingling too
 Come on, it's lovely weather
@@ -624,9 +638,11 @@ It'll nearly be like a picture print
 by Currier and Ives
 These wonderful things are the things
 we remember all through our lives!
+```
 
 # Il est né le divin enfant 
 
+```
 Il est né le divin enfant, 
 Jouez hautbois, résonnez musettes ! 
 Il est né le divin enfant, 
@@ -667,12 +683,13 @@ Partez, grands rois de l'Orient !
 Venez vous unir à  nos fêtes 
 Partez, grands rois de l'Orient ! 
 Venez adorer cet enfant ! 
-
+```
 
 
 
 # L'enfant au tambour
 
+```
 Sur la route, 
  Pa-ram-pam-pam-pam 
  Petit tambour s'en va. 
@@ -711,11 +728,12 @@ Là je veux donner pour son retour
  Sur son tambour 
  Sur son tambour 
  Sur son tambour
- 
+``` 
 
 
 # We wish you a Merry Christmas 
 
+```
 We wish you a Merry Christmas; 
  We wish you a Merry Christmas; 
  We wish you a Merry Christmas and a Happy New Year. 
@@ -740,11 +758,12 @@ We wish you a Merry Christmas;
 We wish you a Merry Christmas; 
  We wish you a Merry Christmas; 
  We wish you a Merry Christmas and a Happy New Year.
-
+```
 
 
 # Frosty the Snowman / Frosty le bonhomme
 
+```
 Frosty the Snowman, Was a jolly happy soul
 With a corncob pipe and a button nose
 And his eyes made out of coal
@@ -787,8 +806,9 @@ Look at Frosty go
 Thumpety thump thump
 Thumpety thump thump
 Over the hills of snow
+```
 
-
+```
 Frosty le bonhomme, le gentil bonhomme d’hiver
 Avec son nez de carotte et ses yeux de boutons
 C’est l’ami des p’tits enfants
@@ -820,11 +840,12 @@ Avec son nez de carotte et ses yeux de boutons
 C’est l’ami du Père Noël
 Frosty,frosty
 Frosty le bonhomme, le gentil bonhomme d’hiver
-
+```
 
 
 # "Jingle Bell Rock"
 
+```
 Jingle bell, jingle bell, jingle bell rock
 Jingle bells swing and jingle bells ring
 Snowing and blowing up bushels of fun
@@ -879,9 +900,13 @@ Jingle bell, jingle bell, jingle bell rock
 Jingle bell, jingle bell, jingle bell rock
 
 Woah
+```
 
-# I Saw Mommy Kissing Santa Claus" /  J'ai vu maman embrasser le Père Noël
+# I Saw Mommy Kissing Santa Claus" 
 
+## J'ai vu maman embrasser le Père Noël
+
+```
 Wow, mommy's kissing Santa Claus
 I saw Mommy kissing Santa Claus
 Underneath the mistletoe last night
@@ -915,8 +940,9 @@ Mommy kissing Santa Claus last night
 I did, I did, I really did see mommy kissing Santa Claus
 You gotta believe me, you just gotta believe me
 Come on, fellas, believe me, you just gotta believe me
+```
 
-
+```
 C'est Noël, et comme chaque année
 Le petit Jojo a des joujoux plein sa ch'minée
 Mais depuis la nuit même il a aussi un secret
@@ -950,12 +976,12 @@ Si maman embrasse le Père Noël.
 Et de nouveau je f'rai semblant
 De dormir profondément
 Si maman embrasse le Père Noël.
+```
 
 
+# "Wonderful Christmas time" (MacCarthney)
 
-# "Wonderful Christmastime" (MacCarthney)
-
-
+```
 The moon is right
 The spirit’s up
 We’re here tonight
@@ -995,9 +1021,6 @@ Ding dong, ding dong
 Ding dong, ding dong
 
 
-
-
-
 The party’s on
 The spirit’s up
 We’re here tonight
@@ -1017,11 +1040,12 @@ Simply having a wonderful Christmas time
 Simply having a wonderful Christmas time
 
 Oh, Christmas time
-
+```
 
 
 # Let It Snow! Let It Snow! Let It Snow! 
 
+```
 Oh, the weather outside is frightful
 But the fire is so delightful
 And since we've no place to go
@@ -1051,12 +1075,13 @@ Oh, the fire is slowly dying
 And, my dear, we're still goodbying
 But as long as you love me so
 Let it snow, let it snow, let it snow
-
+```
 
 
 # Run Rudolph Run 
 
 
+```
 Out of all the reindeers you know you're the mastermind
 Run, run Rudolph, Randalph ain't too far behind
 Run, run Rudolph, Santa's got to make it to town
@@ -1081,7 +1106,7 @@ And then away went Rudolph a whizzing like a Saber jet
 Run, run Rudolph, Santa's got to make it to town
 Santa make him hurry, tell him he can take the freeway down
 Run, run Rudolph 'cause I'm reelin' like a merry-go-round
-
+```
 
 
 
@@ -1089,7 +1114,7 @@ Run, run Rudolph 'cause I'm reelin' like a merry-go-round
 
 # Les anges dans nos campagnes / Angels We've Heard On (In Excelsis Deo)
 
-
+```
 Les anges dans nos campagnes 
 Ont entonné l'hymne des cieux, 
 Et l'écho de nos montagnes 
@@ -1131,7 +1156,9 @@ Fassent retentir dans les airs
 
 Gloria in excelsis Deo 
 Gloria in excelsis Deo
+```
 
+```
 ENGLISH: 
 Angels we have heard on high,
 Singing sweetly through the night,
@@ -1160,13 +1187,14 @@ Mary, Joseph, lend your aid,
 While we raise our hearts in love.
 Gloria in excelsis Deo.
 Gloria in excelsis Deo.
-
+```
 
 
 
 
 # Voici le Père Noël / Here Comes Santa Claus 
 
+```
 - 1 -
  Voici le Père Noël (bis)
  Qui revient parmi nous. 
@@ -1199,9 +1227,9 @@ Gloria in excelsis Deo.
 
  Voici le Père Noël (bis)
  Qui revient parmi nous.
+```
 
-
-
+```
 Here Comes Santa Claus (Right Down Santa Claus Lane)
 Here comes Santa Claus, here comes Santa Claus right down Santa Claus Lane
 Vixen and Blitzen and all his reindeer pullin' on the reins
@@ -1231,10 +1259,12 @@ So jump in bed, and cover your head, 'cause Santa Claus comes tonight
 Peace on earth will come to all, if we just follow the light	
 So let's give thanks to the Lord above 'cause Santa Claus comes tonight
 So let's give thanks to the Lord above 'cause Santa Claus comes tonight
-
+```
 
 
 # Le jour de l'An
+
+```
 - 1 -
  Préparons-nous, son père
  Pour fêter l' jour de l'An
@@ -1288,7 +1318,7 @@ Dernier refrain
  On s'donne la main, on s'embrasse
  C'est l'bon temps d'en profiter
  Ça dure rien qu'une fois par année.
-
+```
 
 
 
@@ -1296,7 +1326,7 @@ Dernier refrain
 # Carol of the Bells - Щедрик (Shchedryk)
 
 
-
+```
 Hark how the bells, 
 sweet silver bells, 
 all seem to say, 
@@ -1330,8 +1360,9 @@ to every home.
 Ding dong ding... dong!
 ?????? (Shchedryk) 
 Bountiful Night
+```
 
-
+```
  (Ukrainian) 
 Щедрик ?????? ??????, 
 ????i?????,
@@ -1354,12 +1385,13 @@ Bountiful Night
 ?????? ??????, 
 ????i?????,
 ????e?i?? ????i?????.
-
+```
 
 
 
 # It's the Most Wonderful Time of the Year
 
+```
 It's the most wonderful time of the year
 With the kids jingle-belling
 And everyone telling you
@@ -1385,11 +1417,12 @@ There'll be much mistletoe-ing
 And hearts will be glowing
 When loved ones are near
 It's the most wonderful time of the year
-
+```
 
 
 # The Christmas Song (Merry Christmas to You) 
 
+```
 Version on Seasons Greetings:
 Chestnuts roasting on an open fire
 Jack Frost nipping at your nose
@@ -1421,13 +1454,14 @@ Although it's been said many times, many ways
 Merry Christmas
 Merry Christmas
 Merry Christmas to you
-
+```
 
 
 
 # Christmas Time
 Bryan Adams
 
+```
 We waited all through the year
 For the day to appear
 When we could be together in harmony
@@ -1468,11 +1502,14 @@ To see the joy in the children's eyes
 The way that the old folks smile
 Says that Christmas will never go away
 
+```
+
 # Have Yourself A Merry Little Christmas
 
-Sam Smith
+Sam Smith    
 Songwriters: Hugh Martin / Ralph Blane
 
+```
 Have yourself a merry little Christmas
 Let your heart be light
 From now on your troubles will be out of sight
@@ -1493,7 +1530,7 @@ So have yourself a merry little Christmas
 
 Have yourself a merry little Christmas
 So have yourself a merry little Christmas
-
+```
 
 
 

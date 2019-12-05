@@ -1,9 +1,16 @@
-bookdown::gitbook:s
+bookdown::gitbook:
   config:
     toc:
+      collapse: subsection
       before: |
-        <li><a href="./">Christmas songs - Chansons de Noel </a></li>
+        <li><a href="https://bookdown.org/gorodnichy/Noel">Chansons de Noël  bilangues</a></li>
       after: |
-        <li><a href="https://github.com/gorodnichy/Xmas" target="blank"></a></li>
-    download: ["pdf", "epub"]
+        <li> <a href="https://github.com/gorodnichy/Xmas">
+        Source at GitHub</a> </li>
+    download: [epub,pdf]
+    edit: https://github.com/gorodnichy/Xmas/edit/master/%s
+    sharing:
+      twitter: yes
+      github: yes
+      facebook: yes
 bookdown::epub_book: default
