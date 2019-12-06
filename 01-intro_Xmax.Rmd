@@ -1,17 +1,26 @@
 
+# PART 1: Easy singing and playing  {-} 
+
 
 # Santa Claus is Coming to Town
 
-
 ```
-J’ai vu dans la nuit passer un traîneau, et j’ai vu aussi ton grand ami
+J’ai vu dans la nuit passer un traîneau, 
+et j’ai vu aussi ton grand ami
 Père Noël arrive ce soir
-II allait vers toi dans la cheminée, il allait vers toi pour y déposer
-Des jouets dans ton bas ce soir
-Et bien tu devras dormir sans te faire aucun souci
-Même si tu n’en as pas envie, tu devras rester au lit
-J’ai vu dans la nuit passer un traîneau, et j’ai vu aussi ton grand ami
-Père Noël arrive ce soir
+
+II allait vers toi dans la cheminée, 
+il allait vers toi pour y déposer
+Des jouets dans ton bas ce soir. 
+
+Et bien tu devras dormir 
+sans te faire aucun souci
+Même si tu n’en as pas envie,
+tu devras rester au lit.
+
+J’ai vu dans la nuit passer un traîneau, 
+et j’ai vu aussi ton grand ami
+Père Noël arrive ce soir.
 ```
 
 ## Père Noël Arrive ce Soir
@@ -33,6 +42,12 @@ So be good for goodness sake
 Oh! You better watch out, you better not cry
 Better not pout, I'm telling you why
 Santa Claus is comin' to town
+
+C F
+C F
+C G C
+
+F Am D7 G
 ```
 
 
@@ -83,6 +98,7 @@ Jingle all the way
 Oh, what fun it is to ride
 In a one horse open sleigh
 ```
+
 ## Vive le vent
 ```
 Sur le long chemin 
@@ -103,6 +119,7 @@ Vive le temps d'hiver
 Boule de neige et jour de l'an 
 Et bonne année grand-mère ... 
 ```
+
 # O Tannenbaum 
 
 ```
@@ -123,6 +140,7 @@ Sont dépouillés de leurs attraits
 Mon beau sapin, roi des forêts 
 Tu gardes ta parure.
 ```
+
 ##  Christmas Tree 
 ```
 O Christmas tree,
@@ -189,7 +207,7 @@ Et que les rennes traversent la lande
 Le vent dans la nuit 
 Au troupeau parle encore de lui 
 
-On l'appelait Nez rouge
+ On l'appelait Nez rouge
  Ah ! comme il était mignon !
  Le p'tit renne au nez rouge
  Rouge comme un lumignon
@@ -256,8 +274,6 @@ And they shouted out with glee
 Rudolph the Red Nosed Reindeer
 You’ll go down in History! X2
 ```
-
-### Chords
 
 
 
@@ -391,7 +407,7 @@ Petit papa Noël
 # Douce Nuit Sainte Nuit / Silent night 
 
 ```
-1.Be-elle nuit, sain-ainte nuit !
+1. Be-elle nuit, sain-ainte nuit !
  Tout s'endort, plus de bruit.
 Veille seu-eul, le   couple sacré
  Doux enfan-ant aux   fin-ins cheveux
@@ -477,6 +493,7 @@ I wanna wish you a merry Christmas
 From the bottom of my heart
 ```
 
+# PART 2: Medium difficulty {-}
 
 # All I want for Christmas is you 
 
