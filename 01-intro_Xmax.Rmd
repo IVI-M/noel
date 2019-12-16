@@ -1,85 +1,42 @@
 
-# PART 1: Easy singing and playing  {-} 
-
-
-# Santa Claus is Coming to Town
-
-```
-J’ai vu dans la nuit passer un traîneau, 
-et j’ai vu aussi ton grand ami
-Père Noël arrive ce soir
-
-II allait vers toi dans la cheminée, 
-il allait vers toi pour y déposer
-Des jouets dans ton bas ce soir. 
-
-Et bien tu devras dormir 
-sans te faire aucun souci
-Même si tu n’en as pas envie,
-tu devras rester au lit.
-
-J’ai vu dans la nuit passer un traîneau, 
-et j’ai vu aussi ton grand ami
-Père Noël arrive ce soir.
-```
-
-## Père Noël Arrive ce Soir
-
-```
-You better watch out, you better not cry
-Better not pout, I'm telling you why
-Santa Claus is comin' to town
-
-He's making a list and checking it twice
-Gonna find out who's naughty and nice
-Santa Claus is comin' to town
-
-He sees you when you're sleepin'
-He knows when you're a wake
-He knows if you've been bad or good
-So be good for goodness sake
-
-Oh! You better watch out, you better not cry
-Better not pout, I'm telling you why
-Santa Claus is comin' to town
-
-C F
-C F
-C G C
-
-F Am D7 G
-```
-
-
 # Deck the Halls
-
-
 ```
 Deck the halls with boughs of holly
 Fa-la-la-la-la, la-la-la-la
 'Tis the season to be jolly
 Fa-la-la-la-la, la-la-la-la
+
 Don we now our gay apparel
 Fa-la-la, la-la-la, la-la-la.
 Troll the ancient Yule-tide carol
 Fa-la-la-la-la, la-la-la-la.
 ```
+
 ## Falalalala
 ```
 Dans les villes et les villages 
 Fa-la-la-la-la, la-la-la-la
 Répandons notre message 
 Fa-la-la-la-la, la-la-la-la
+
 Proclamons la joie profonde 
 Fa-la-la, la-la-la, la-la-la
 Que Dieu a donné au monde 
 Fa-la-la-la-la, la-la-la-la
 ```
 
+### Chords
+```
+C  G  C 
+C  G  C
+
+G C F C
+C  G  C
+``
 
 # Jingle Bells  
-
 ```
+1:
 Dashing through the snow
 In a one horse open sleigh
 O'er the fields we go
@@ -89,6 +46,7 @@ Making spirits bright
 What fun it is to laugh and sing
 A sleighing song tonight
 
+R:
 Oh, jingle bells, jingle bells
 Jingle all the way
 Oh, what fun it is to ride
@@ -101,6 +59,7 @@ In a one horse open sleigh
 
 ## Vive le vent
 ```
+1:
 Sur le long chemin 
 Tout blanc de neige blanche 
 Un vieux monsieur s'avance 
@@ -110,6 +69,7 @@ Qui siffle dans les branches
 Lui souffle la romance 
 Qu'il chantait petit enfant:
 
+R:
 Vive le vent, vive le vent 
 Vive le vent d'hiver 
 Qui s'en va sifflant, soufflant 
@@ -118,23 +78,22 @@ OH! Vive le temps, vive le temps
 Vive le temps d'hiver 
 Boule de neige et jour de l'an 
 Et bonne année grand-mère ... 
+
+RR:
+Joyeux joyeux Noël aux mille 
+bougies qu'enchantent vers le ciel
+les cloches de la nuit.
+Vive le vent, vive le vent,
+Vive le vent d'hiver 
+qui rapporte aux vieux enfants
+un souvenir d'hier.
 ```
 
-# O Tannenbaum 
-
-```
-O Tannenbaum, o Tannenbaum,
- Dein Kleid will mich was lehren:
- Die Hoffnung und Beständigkeit
- Gibt Mut und Kraft zu jeder Zeit!
- O Tannenbaum, o Tannenbaum,
- Dein Kleid will mich was lehren!
-```
-
-## Mon beau sapin
+# Mon beau sapin
 ```
 Mon beau sapin, roi des forêts 
-Que j'aime ta verdure!
+Que j'aime ta verdure! (x2)
+
 Quand, par l'hiver, bois et guérets 
 Sont dépouillés de leurs attraits 
 Mon beau sapin, roi des forêts 
@@ -143,108 +102,183 @@ Tu gardes ta parure.
 
 ##  Christmas Tree 
 ```
-O Christmas tree,
-O Christmas tree
-Your leaves are so unchanging
-O Christmas tree,
-O Christmas tree
-Your leaves are so unchanging
+O Christmas tree, O Christmas tree
+Your leaves are so unchanging (x2)
 
 Not only green when Summer’s here
 But also when it’s cold and drear
-O Christmas tree, 
-O Christmas tree
+O Christmas tree, O Christmas tree
 Your leaves are so unchanging
 ```
 
-
-
-# We wish you a Merry Christmas / On se dit Joyeux Noël
-
+## O Tannenbaum 
 ```
-We wish you a Merry Christmas
-We wish you a Merry Christmas
-We wish you a Merry Christmas
+ O Tannenbaum, o Tannenbaum,
+ Dein Kleid will mich was lehren: (x2)
+ 
+ Die Hoffnung und Beständigkeit
+ Gibt Mut und Kraft zu jeder Zeit!
+ O Tannenbaum, o Tannenbaum,
+ Dein Kleid will mich was lehren!
+```
+
+### Chords
+```
+```
+
+
+# We wish you a Merry Christmas 
+```
+1:
+We wish you a Merry Christmas (x3)
 And a Happy New Year
+R:
 Good tidings we bring
 To you and your kin
 We wish you a Merry Christmas
 And a Happy New Year
-
-Now bring us some figgy pudding
-Now bring us some figgy pudding
-Now bring us some figgy pudding
+2:
+Now bring us some figgy pudding (x3)
 And a cup of good cheer
+(R)
 ```
 
 ## On se dit Joyeux Noël
 ```
+1:
 Je te dis joyeux Noël 
 Tu me dis joyeux Noël 
 On se dit joyeux Noël 
 Et aussi bonne année
+R:
 A tout' la famille
 On dit joyeux Noël
 Et nos voeux pour que brille
 La nouvelle année
-
+2:
 J'apporte un petit gâteau 
 Tu apportes un petit gâteau 
 On apporte un petit gâteau 
 Petits gâteaux sucrés
+(R)
+3:
+Je donne un petit baisé
+Tu donnes un petit baisé
+On donne un petit baisé
+Petits baisers mouillés
+(R)
+4:
+Et je ne partirai pas 
+Et tu ne partiras pas 
+Et on ne partira pas 
+Avant davoir chanté
+(R)
+```
+
+### Chords
+```
 ```
 
 
+
+# Santa Claus is Coming to Town
+```
+1:
+You better watch out, you better not cry
+Better not pout, I'm telling you why
+Santa Claus is comin' to town
+2:
+He's making a list and checking it twice
+Gonna find out who's naughty and nice
+Santa Claus is comin' to town
+R:
+He sees you when you're sleepin'
+He knows when you're a wake
+He knows if you've been bad or good
+So be good for goodness sake
+
+  1:
+C F
+C F
+C G C
+
+  R: 
+F 
+Am 
+D7 
+G
+```
+
+## Père Noël Arrive ce Soir
+
+```
+1:
+J’ai vu dans la nuit passer un traîneau, 
+et j’ai vu aussi ton grand ami
+Père Noël arrive ce soir
+2:
+II allait vers toi dans la cheminée, 
+il allait vers toi pour y déposer
+Des jouets dans ton bas ce soir. 
+R:
+Et bien tu devras dormir 
+sans te faire aucun souci
+Même si tu n’en as pas envie,
+tu devras rester au lit.
+
+```
 
 
 
 # Le p’tit renne au nez rouge 
 
 ```
--1-
+Intro 1:
 Quand la neige recouvre la verte Finlande 
 Et que les rennes traversent la lande 
 Le vent dans la nuit 
 Au troupeau parle encore de lui 
-
+1a:
  On l'appelait Nez rouge
- Ah ! comme il était mignon !
+ Ah comme il était mignon !
  Le p'tit renne au nez rouge
  Rouge comme un lumignon
+1b: 
  Son p'tit nez faisait rire
  Chacun s'en moquait beaucoup
  On allait jusqu'à dire
  Qu'il aimait prendre un p'tit coup.
-
+R1:
  Une fée qui l'entendit 
  Pleurer dans le noir
  Pour le consoler lui dit:
  Viens au paradis ce soir
+1c 
  Comme un ange, Nez rouge
  Tu conduiras dans le ciel
  Avec ton p'tit nez rouge
  Le chariot du Père Noël !  
  
- - 2 -
- Quand ses frères le virent 
- D'allure si leste
- Suivre, très digne
- Les routes célestes
+Intro 1:
+ Quand ses frères le virent D'allure si leste
+ Suivre, très digne Les routes célestes
  Devant ses ébats
  Plus d'un renne resta baba. 
- On l'appelait Nez rouge
- Ah ! comme il était mignon !
- Le p'tit renne au nez rouge
- Rouge comme un lumignon
+ 
+(1a)
+2b 
  Maintenant qu'il entraîne
  Son char à travers les cieux
  C'est lui le roi des rennes
  Et son nez fait des envieux. 
 
+R2:
  Vous, fillettes et garçons
  Pour la grande nuit
  Si vous savez vos leçons
  Dès que sonnera minuit
+ 
+3b: 
  Ce petit point qui bouge
  Ainsi qu'une étoile au ciel
  C'est le nez de Nez rouge
@@ -252,23 +286,23 @@ Au troupeau parle encore de lui
 ```
 
 ## Rudolph the red-nosed reindeer
-
 ```
+1a:
 Rudolph the Red Nosed Reindeer 
 Had a very shiny nose, 
 And if you ever saw it, 
 You would even say it glows. 
-
+1b:
 All of the other reindeer 
 Used to laugh and call him names; 
 They never let poor Rudolph 
 Join in any reindeer games.
-
+R:
 Then one foggy Christmas Eve, 
 Santa came to say, 
 Rudolph with your nose so bright, 
 Won't you guide my sleigh tonight?
-
+2a:
 All of the reindeer loved him,
 And they shouted out with glee
 Rudolph the Red Nosed Reindeer
@@ -276,47 +310,63 @@ You’ll go down in History! X2
 ```
 
 
-
-# C’est l’hiver / Let it snow
-
+### Chords
 ```
-FRANÇAIS :
+```
 
+
+
+# C’est l’hiver
+```
+1:
 Nous filons sur la neige blanche
 En ce beau jour de dimanche
 À travers les sapins verts
 C'est l'hiver, c'est l'hiver, c'est l'hiver
 
+2:
 Les enfants de notre village
 Chantent la joie de leur âge
 Et les grands murmures de se taire
 C'est l'hiver, c'est l'hiver, c'est l'hiver
 
-ENGLISH :
+R:
+Le bon Dieu dans son paradis
+Doit aussi chanter avec nous
+Car la nature est si jolie
+Le bleu de son ciel est si doux
+```
 
-When we finally kiss goodnight
-How I’ll hate going out in the storm
-And if you only hold me tight,
-All the way home I’ll be warm
-
+## Let it snow
+```
+1:
 Oh, the weather outside is frightful
 But the fire is so delightful
 And since we've no place to go
 Let it snow, let it snow, let it snow
-
+2:
 Man it doesn't show signs of stoppin'
 And I brought some corn for poppin'
 The lights are turned way down low
 Let it snow, let it snow, let it snow
+R:
+When we finally kiss goodnight
+How I’ll hate going out in the storm
+And if you only hold me tight,
+All the way home I’ll be warm
+3:
+The fire is slowly dying
+And my dear we're still goodbye-ing
+As long as you love me so
+Let it snow, let it snow, let it snow
+
 ```
 
 
 
 
-# Walking in a winter wonderland / Bonhomme hiver
-
+# Walking in a winter wonderland 
 ```
-ENGLISH:
 Sleigh bells ring
 Are you listening
 In the lane
@@ -335,8 +385,9 @@ As we dream by the fire
 To face unafraid
 The plans that we've made
 Walking in a winter wonderland
-
-FRANÇAIS :
+```
+## Bonhomme hiver
+```
 Écoutez les clochettes
 Du joyeux temps des fêtes
 Annonçant la joie
@@ -353,8 +404,6 @@ Près du feu, je t'emmène
 Allons nous chauffer dans l'intimité
 Au royaume du bonhomme hiver
 ```		
-
-
 
 
 # Petit Papa Noël
@@ -404,7 +453,7 @@ Petit papa Noël
 ```
 
 
-# Douce Nuit Sainte Nuit / Silent night 
+# Douce Nuit Sainte Nuit 
 
 ```
 1. Be-elle nuit, sain-ainte nuit !
@@ -428,7 +477,7 @@ Tan-andis que pour l'ho-o-om-me
 So-onne l'heure sainte, 
 L'heu-eure du-u salut ! 
 ```
-
+## Silent night 
 ```
 1. Silent night, holy night! 
 All is calm, all is bright. 
@@ -453,47 +502,157 @@ Jesus Lord, at Thy birth.
 ```
 
 # Feliz Navidad 
-
 ```
-Español
-feliz navidad 
-feliz navidad 
-feliz navidad 
+feliz navidad (x3)
 prospero año y felicidad 
 
-feliz navidad 
-feliz navidad 
-feliz navidad 
-prospero año y felicidad 
-
-a todos quiero desearles siempre 
-felicidad es un gran presente 
-es el momento de que disfruten 
-en el tiempo de amor y paz 
-
-vivan contentos vivan felices 
-
-en el amor dulce sentimiento 
-cantando voy para que me escuchen 
-mucha paz vengan a cantar 
-
-feliz navidad 
-feliz navidad 
-prospero año y felicidad 
-
-feliz navidad 
-feliz navidad 
-feliz navidad 
-prospero año y felicidad
-
-
-I wanna wish you a merry Christmas
-I wanna wish you a merry Christmas
-I wanna wish you a merry Christmas
+I wanna wish you a merry Christmas (x3)
 From the bottom of my heart
 ```
 
-# PART 2: Medium difficulty {-}
+
+
+# Frosty the Snowman / Frosty le bonhomme
+
+```
+Frosty the Snowman, Was a jolly happy soul
+With a corncob pipe and a button nose
+And his eyes made out of coal
+
+Frosty the Snowman, Made the children laugh and play
+And were they surprised when
+Before their eyes
+He came to life that day
+There must have been some magic
+In that old silk hat they found
+For when they placed it on his head
+He began to dance around
+
+Frosty the Snowman, Was alive as he could be
+And the children say
+He could laugh and play
+Just the same as you and me
+
+Frosty the Snowman, Knew the sun was hot that day
+So he said let's run
+And we'll have fun
+Now before I melt away
+So down to the village
+With a broomstick in his hand
+Running here and there all around the square
+Saying catch me if you can
+He led… 
+He led them down the streets of town
+Right to the traffic cop
+And he only paused a moment when
+He heard him holler stop
+
+Frosty the Snowman, Had to hurry on his way
+But he waved goodbye
+Saying don't you cry
+I'll be back again some day
+Thumpety thump thump
+Thumpety thump thump
+Look at Frosty go
+Thumpety thump thump
+Thumpety thump thump
+Over the hills of snow
+```
+
+```
+Frosty le bonhomme, le gentil bonhomme d’hiver
+Avec son nez de carotte et ses yeux de boutons
+C’est l’ami des p’tits enfants
+
+Frosty le bonhomme, le gentil bonhomme de neige
+Avec son nez de carotte et ses yeux de boutons
+C’est l’ami du Père Noël
+
+Son chapeau et son foulard
+Il marche dans la rue
+Et quand il voit les p’tits enfants
+Il leur fait des grands saluts
+
+Frosty le bonhomme, le gentil bonhomme d’hiver
+Avec son nez de carotte et ses yeux de boutons
+C’est l’ami des p’tits enfants
+
+Frosty le bonhomme, le gentil bonhomme de neige
+Avec son nez de carotte et ses yeux de boutons
+C’est l’ami du Père Noël
+
+Son chapeau et son foulard
+Il marche dans la rue
+Et quand il voit les p’tits enfants
+Il leur fait des grands saluts
+
+Frosty le bonhomme, le gentil bonhomme d’hiver
+Avec son nez de carotte et ses yeux de boutons
+C’est l’ami du Père Noël
+Frosty,frosty
+Frosty le bonhomme, le gentil bonhomme d’hiver
+```
+
+
+# "Jingle Bell Rock"
+
+```
+Jingle bell, jingle bell, jingle bell rock
+Jingle bells swing and jingle bells ring
+Snowing and blowing up bushels of fun
+Now the jingle hop has begun
+
+Jingle bell, jingle bell, jingle bell rock
+Jingle bells chime in jingle bell time
+Dancing and prancing in Jingle Bell Square
+In the frosty air
+
+What a bright time, it's the right time
+To rock the night away
+Jingle bell time is a swell time
+To go gliding in a one-horse sleigh
+
+Giddy-up jingle horse, pick up your feet
+Jingle around the clock
+Mix and a-mingle in the jingling feet
+
+That's the jingle bell rock
+
+Jingle bell, jingle bell, jingle bell rock
+Jingle bells chime in jingle bell time
+Dancing and prancing in Jingle Bell Square
+In the frosty air
+
+Jingle bell, jingle bell, jingle bell rock
+Jingle bells chime in jingle bell time
+Snowing and blowing up bushels of fun
+Now the jingle hop has begun
+
+Jingle bell, jingle bell, jingle bell rock
+Jingle bells chime in jingle bell time
+Dancing and prancing in Jingle Bell Square
+In the frosty air
+
+What a bright time, it's the right time
+To rock the night away (rock the night away)
+Jingle bell time is a swell time
+To go gliding in a one-horse sleigh
+Giddy-up jingle horse, pick up your feet
+Jingle around the clock
+
+Mix and a-mingle in the jingling feet
+That's the jingle bell
+That's the jingle bell
+That's the jingle bell (rock)
+
+Jingle bell, jingle bell, jingle bell rock
+
+Jingle bell, jingle bell, jingle bell rock
+Jingle bell, jingle bell, jingle bell rock
+
+Woah
+```
+
 
 # All I want for Christmas is you 
 
@@ -807,33 +966,6 @@ ride together with you.
   
 
 
-Play "Sleigh Ride"
-on Amazon Music
-Recommended
-China's ancient city is experiencing rapid modernisation due to BRI
-China's ancient city is experiencing rapid modernisation due to BRI
-DHL
-43 Photos of Just How Crazy It Got at Woodstock
-43 Photos of Just How Crazy It Got at Woodstock
-CelebsPulse
-If you have an Android, this MMO game is highly addicting
-If you have an Android, this MMO game is highly addicting
-Download Call of Duty Mobile
-40 Vinyl Records Worth A Fortune Today
-40 Vinyl Records Worth A Fortune Today
-UnpuzzleFinance
-[Photos] Why Aren't People Using This Chinese Bridge?
-Editor Choice
-See Also:
-Paul McCartney - My love
-John Lennon - Woman
-A-Ha - Take On Me
-A-Ha - Hunting High and Low
-Michael Jackson - Heal The World
-Justin Bieber - Love Yourself
-2019 © Petaxxon Online CommunicationDesktop version | Contact Us
-
-
 ```
 
 # Il est né le divin enfant 
@@ -925,178 +1057,6 @@ Là je veux donner pour son retour
  Sur son tambour 
  Sur son tambour
 ``` 
-
-
-# We wish you a Merry Christmas 
-
-```
-We wish you a Merry Christmas; 
- We wish you a Merry Christmas; 
- We wish you a Merry Christmas and a Happy New Year. 
-
- Good tidings we bring to you and your kin; 
- We wish you a merry Christmas 
- and a Happy New Year. 
-
- Oh, bring us a figgy pudding; 
- Oh, bring us a figgy pudding; 
- Oh, bring us a figgy pudding and a cup of good cheer. 
-
- We wish you a Merry Christmas; 
- We wish you a Merry Christmas; 
-  
- We wish you a Merry Christmas and a Happy New Year. 
-
- We won't go until we get some; 
- We won't go until we get some; 
- We won't go until we get some, so bring some out here. 
-
-We wish you a Merry Christmas; 
- We wish you a Merry Christmas; 
- We wish you a Merry Christmas and a Happy New Year.
-```
-
-
-# Frosty the Snowman / Frosty le bonhomme
-
-```
-Frosty the Snowman, Was a jolly happy soul
-With a corncob pipe and a button nose
-And his eyes made out of coal
-
-Frosty the Snowman, Made the children laugh and play
-And were they surprised when
-Before their eyes
-He came to life that day
-There must have been some magic
-In that old silk hat they found
-For when they placed it on his head
-He began to dance around
-
-Frosty the Snowman, Was alive as he could be
-And the children say
-He could laugh and play
-Just the same as you and me
-
-Frosty the Snowman, Knew the sun was hot that day
-So he said let's run
-And we'll have fun
-Now before I melt away
-So down to the village
-With a broomstick in his hand
-Running here and there all around the square
-Saying catch me if you can
-He led… 
-He led them down the streets of town
-Right to the traffic cop
-And he only paused a moment when
-He heard him holler stop
-
-Frosty the Snowman, Had to hurry on his way
-But he waved goodbye
-Saying don't you cry
-I'll be back again some day
-Thumpety thump thump
-Thumpety thump thump
-Look at Frosty go
-Thumpety thump thump
-Thumpety thump thump
-Over the hills of snow
-```
-
-```
-Frosty le bonhomme, le gentil bonhomme d’hiver
-Avec son nez de carotte et ses yeux de boutons
-C’est l’ami des p’tits enfants
-
-Frosty le bonhomme, le gentil bonhomme de neige
-Avec son nez de carotte et ses yeux de boutons
-C’est l’ami du Père Noël
-
-Son chapeau et son foulard
-Il marche dans la rue
-Et quand il voit les p’tits enfants
-Il leur fait des grands saluts
-
-Frosty le bonhomme, le gentil bonhomme d’hiver
-Avec son nez de carotte et ses yeux de boutons
-C’est l’ami des p’tits enfants
-
-Frosty le bonhomme, le gentil bonhomme de neige
-Avec son nez de carotte et ses yeux de boutons
-C’est l’ami du Père Noël
-
-Son chapeau et son foulard
-Il marche dans la rue
-Et quand il voit les p’tits enfants
-Il leur fait des grands saluts
-
-Frosty le bonhomme, le gentil bonhomme d’hiver
-Avec son nez de carotte et ses yeux de boutons
-C’est l’ami du Père Noël
-Frosty,frosty
-Frosty le bonhomme, le gentil bonhomme d’hiver
-```
-
-
-# "Jingle Bell Rock"
-
-```
-Jingle bell, jingle bell, jingle bell rock
-Jingle bells swing and jingle bells ring
-Snowing and blowing up bushels of fun
-Now the jingle hop has begun
-
-Jingle bell, jingle bell, jingle bell rock
-Jingle bells chime in jingle bell time
-Dancing and prancing in Jingle Bell Square
-In the frosty air
-
-What a bright time, it's the right time
-To rock the night away
-Jingle bell time is a swell time
-To go gliding in a one-horse sleigh
-
-Giddy-up jingle horse, pick up your feet
-Jingle around the clock
-Mix and a-mingle in the jingling feet
-
-That's the jingle bell rock
-
-Jingle bell, jingle bell, jingle bell rock
-Jingle bells chime in jingle bell time
-Dancing and prancing in Jingle Bell Square
-In the frosty air
-
-Jingle bell, jingle bell, jingle bell rock
-Jingle bells chime in jingle bell time
-Snowing and blowing up bushels of fun
-Now the jingle hop has begun
-
-Jingle bell, jingle bell, jingle bell rock
-Jingle bells chime in jingle bell time
-Dancing and prancing in Jingle Bell Square
-In the frosty air
-
-What a bright time, it's the right time
-To rock the night away (rock the night away)
-Jingle bell time is a swell time
-To go gliding in a one-horse sleigh
-Giddy-up jingle horse, pick up your feet
-Jingle around the clock
-
-Mix and a-mingle in the jingling feet
-That's the jingle bell
-That's the jingle bell
-That's the jingle bell (rock)
-
-Jingle bell, jingle bell, jingle bell rock
-
-Jingle bell, jingle bell, jingle bell rock
-Jingle bell, jingle bell, jingle bell rock
-
-Woah
-```
 
 # I Saw Mommy Kissing Santa Claus" 
 
