@@ -260,7 +260,7 @@ Suivre, très digne les routes célestes
 Devant ses ébats
 Plus d'un renne resta baba. )
  
- Couplet 1
+ Couplet 1,
  Maintenant qu'il entraîne
  Son char à travers les cieux
  C'est lui le roi des rennes
@@ -271,7 +271,6 @@ Plus d'un renne resta baba. )
    Si vous savez vos leçons
    Dès que sonnera minuit
  
-3b: 
  Ce petit point qui bouge
  Ainsi qu'une étoile au ciel
  C'est le nez de Nez rouge
@@ -464,14 +463,14 @@ That's the jingle bell (rock)
 # Douce Nuit Sainte Nuit 
 
 ```
-1. Be-elle nuit, sain-ainte nuit !
- Tout s'endort, plus de bruit.
-Veille seu-eul, le   couple sacré
+Be-elle nuit, sain-ainte nuit !
+Tout s'endort, plus de bruit.
+ Veille seu-eul, le   couple sacré
  Doux enfan-ant aux   fin-ins cheveux
   Clos tes   yeux et re  po--s   e.
   Sou-ous ces yeux vigilants.
  
-2. Be-elle nuit, sain-ainte nuit ! 
+Be-elle nuit, sain-ainte nuit ! 
 Dans les champs, les bergers, 
 Par les an-anges a-avertis, 
 Font partou-out retentir leur voix : 
@@ -488,21 +487,21 @@ L'heu-eure du-u salut !
 
 ## Silent night 
 ```
-1. Silent night, holy night! 
+Silent night, holy night! 
 All is calm, all is bright. 
 Round yon Virgin, Mother and Child. 
 Holy infant so tender and mild, 
 Sleep in heavenly peace, 
 Sleep in heavenly peace. 
 
-2. Silent night, holy night! 
+Silent night, holy night! 
 Shepherds quake at the sight. 
 Glories stream from heaven afar 
 Heavenly hosts sing Alleluia, 
 Christ the Savior is born! 
 Christ the Savior is born. 
 
-3. Silent night, holy night! 
+Silent night, holy night! 
 Son of God love's pure light. 
 Radiant beams from Thy holy face 
 With dawn of redeeming grace, 
@@ -711,64 +710,48 @@ Make my wish come true
 You
 ```
 
-# Promenade en traîneau / Sleigh Ride
+# Promenade en traîneau
 ```
-Au petit trot s'en va le cheval avec  ses grelots 
-et le traîneau joyeusement dévale à  travers les coteaux. 
-
+Au petit trot s'en va le cheval avec ses grelots 
+et le traîneau joyeusement dévale à travers les coteaux. 
 Dans le vallon s'accroche l'hiver mais le ciel est bleu. 
 Ah! Qu'il fait bon faire un tour au grand air comme des amoureux. 
 
-Ho di up ho di up ohé, ohé du traîneau 
-Emmitouflez-vous bien dans vos manteaux 
-Ho di up ho di up ohé pour se tenir chaud 
-L'un contre l'autre on se blottit comme 
-deux moineaux dans un nid. 
+  Ho di up ho di up ohé, ohé du traîneau 
+  Emmitouflez-vous bien dans vos manteaux 
+  Ho di up ho di up ohé pour se tenir chaud 
+  L'un contre l'autre on se blottit comme deux moineaux dans un nid. 
 
-C'es merveilleux de voir défilant comme 
-un décor peint, devant nos yeux les 
+C'est merveilleux de voir défilant comme un décor peint, 
+Devant nos yeux les villages tout blancs et les petits sapins. 
+Parfois tu cries car ça penche un peu, c'est l'instant d'effroi, 
+moi je souris, j'ai le cœur amoureux et le bout du nez froid. 
 
-villages tout blancs et les petits sapins. 
-Parfois tu cries car ça penche un peu, c'est 
-L'instant d'effroi, moi je souris, j'ai le 
-cœur amoureux et le bout du nez froid. 
+    L'attelage a déjà  pris le chemin du retour. 
+    Nous allons être surpris par la tombée du jour, 
+    car c'est l'heure où la nuit sans bruit s'épanouit comme une fleur 
+    et s'allume le ciel qui change de couleurs. 
 
-L'attelage a déjà  pris le chemin du retour. 
-Nous allons être surpris par la tombée du 
-jour, car c'est l'heure où la nuit sans 
-bruit s'épanouit comme une fleur et 
-s'allume le ciel qui change de couleurs. 
+    Mais voici notre maison qui nous fait signe au loin, 
+    sa lumière à  l'horizon scintille comme un point. 
+    Je me vois déjà  près de toi le rire aux yeux, le cœur content, 
+    près du grand feu de bois qui flambe et nous attend. 
 
-Mais voici notre maison qui nous fait 
-signe au loin, sa lumière à  l'horizon 
-scintille comme un point. Je me vois 
-déjà  près de toi le rire aux yeux, le cœur 
-content, près du grand feu de bois qui 
-flambe et nous attend. 
-
-Au petit trot s'en va le cheval avec 
-ses grelots et le traîneau joyeusement 
-dévale à  travers les coteaux.
+Au petit trot s'en va le cheval avec ses grelots 
+et le traîneau joyeusement dévale à  travers les coteaux...
 ```
 
-
+## Sleigh Ride
 ```
-Just hear those sleigh bells jingling,
-ring ting tingling too
-Come on, it's lovely weather
-for a sleigh ride together with you,
-Outside the snow is falling
-and friends are calling "Yoo hoo,"
-Come on, it's lovely weather
-for a sleigh ride together with you.
+Just hear those sleigh bells jingling, ring ting tingling too
+Come on, it's lovely weather for a sleigh ride together with you,
+Outside the snow is falling and friends are calling "Yoo hoo,"
+Come on, it's lovely weather for a sleigh ride together with you.
 
-Giddy up, giddy up, giddy up,
-let's go, Let's look at the show,
-We're riding in a wonderland of snow.
-Giddy up, giddy up, giddy up,
-it's grand, Just holding your hand,
-We're gliding along with a song
-of a wintry fairy land.
+  Giddy up, giddy up, giddy up, let's go, Let's look at the show,
+  We're riding in a wonderland of snow.
+  Giddy up, giddy up, giddy up,it's grand, Just holding your hand,
+  We're gliding along with a song of a wintry fairy land.
 
 Our cheeks are nice and rosy
 and comfy cozy are we
@@ -779,34 +762,20 @@ and sing a chorus or two
 Come on, it's lovely weather
 for a sleigh ride together with you.
 
-There's a birthday party
-at the home of Farmer Gray
-It'll be the perfect ending a perfect day
-We'll be singing the songs
-we love to sing without a single stop,
-At the fireplace while we watch
-the chestnuts pop. Pop! pop! pop!
-There's a happy feeling
-nothing in the world can buy,
+    There's a birthday party at the home of Farmer Gray
+    It'll be the perfect ending a perfect day
+    We'll be singing the songs we love to sing without a single stop,
+    At the fireplace while we watch the chestnuts pop. Pop! pop! pop!
+    
+    There's a happy feeling nothing in the world can buy,
+    When they pass around the chocolate and the pumpkin pie
+    It'll nearly be like a picture print by Currier and Ives
+    These wonderful things are the things we remember all through our lives!
+```
 
-When they pass around the chocolate
-and the pumpkin pie
-It'll nearly be like a picture print
-by Currier and Ives
-These wonderful things are the things
-we remember all through our lives!
+### Chords
 
-Navigation
-
-E-Chords
-Search Configuration
-Login
-
-Sleigh Ride(Chords)
-Johnny Mathis
-Play "Sleigh Ride"
-on Amazon Music
-Key: G 
+```
 Intro:  | Cm7  Am | F  G7  |  
   
      G7           Cm7         Am        F        
@@ -942,10 +911,6 @@ calling 'You Hoo!'
 Come on, it's lovely weather for a sleigh
          Dm7 G/B  D6
 ride together with you.
-  
-  
-  
-
 
 ```
 
