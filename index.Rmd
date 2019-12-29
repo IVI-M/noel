@@ -1,11 +1,10 @@
 --- 
-title: "Bilingual Christmas songs"
+title: "Bilingual Christmas carols"
+author: "IVIM"
 documentclass: book
 site: bookdown::bookdown_site
-subtitle: "Chansons de Noël  bilangues"
-description: "Christmas song favourites for multi-lingual families, with chords"
-#date: "With chords"
-author: "Compiled by IVIM"
+subtitle: Chansons de Noël bilangues
+description: Christmas song favourites for multi-lingual families, with chords
 ---
 
 # Intro {-}
