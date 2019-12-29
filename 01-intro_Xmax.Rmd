@@ -1,88 +1,67 @@
 
-
-# Santa Claus is Coming to Town
-
-
-```
-J’ai vu dans la nuit passer un traîneau, et j’ai vu aussi ton grand ami
-Père Noël arrive ce soir
-II allait vers toi dans la cheminée, il allait vers toi pour y déposer
-Des jouets dans ton bas ce soir
-Et bien tu devras dormir sans te faire aucun souci
-Même si tu n’en as pas envie, tu devras rester au lit
-J’ai vu dans la nuit passer un traîneau, et j’ai vu aussi ton grand ami
-Père Noël arrive ce soir
-```
-
-## Père Noël Arrive ce Soir
-
-```
-You better watch out, you better not cry
-Better not pout, I'm telling you why
-Santa Claus is comin' to town
-
-He's making a list and checking it twice
-Gonna find out who's naughty and nice
-Santa Claus is comin' to town
-
-He sees you when you're sleepin'
-He knows when you're a wake
-He knows if you've been bad or good
-So be good for goodness sake
-
-Oh! You better watch out, you better not cry
-Better not pout, I'm telling you why
-Santa Claus is comin' to town
-```
-
-
 # Deck the Halls
-
-
 ```
 Deck the halls with boughs of holly
 Fa-la-la-la-la, la-la-la-la
 'Tis the season to be jolly
 Fa-la-la-la-la, la-la-la-la
-Don we now our gay apparel
-Fa-la-la, la-la-la, la-la-la.
-Troll the ancient Yule-tide carol
-Fa-la-la-la-la, la-la-la-la.
+
+  Don we now our gay apparel
+  Fa-la-la, la-la-la, la-la-la.
+  Troll the ancient Yule-tide carol
+  Fa-la-la-la-la, la-la-la-la.
 ```
+
 ## Falalalala
 ```
 Dans les villes et les villages 
 Fa-la-la-la-la, la-la-la-la
 Répandons notre message 
 Fa-la-la-la-la, la-la-la-la
-Proclamons la joie profonde 
-Fa-la-la, la-la-la, la-la-la
-Que Dieu a donné au monde 
-Fa-la-la-la-la, la-la-la-la
+
+  Proclamons la joie profonde 
+  Fa-la-la, la-la-la, la-la-la
+  Que Dieu a donné au monde 
+  Fa-la-la-la-la, la-la-la-la
+
+Que l'on chante qu'on s'apprête
+Fa la la la la la la la la
+Sonnez pipeaux et trompettes
+Fa la la la la la la la la
+
+  Car c'est la joie qu'on apporte
+  Fa la la la la la la la la
+  Ouvrez donc grandes vos portes
+  Fa la la la la la la la la
 ```
 
+### Chords
+```
+C  G  C 
+C  G  C
+
+  G C F C
+  C  G  C
+```
 
 # Jingle Bells  
-
 ```
 Dashing through the snow
 In a one horse open sleigh
-O'er the fields we go
+Over fields we go
 Laughing all the way
 Bells on bob tails ring
 Making spirits bright
 What fun it is to laugh and sing
 A sleighing song tonight
 
-Oh, jingle bells, jingle bells
-Jingle all the way
-Oh, what fun it is to ride
-In a one horse open sleigh
-Jingle bells, jingle bells
-Jingle all the way
-Oh, what fun it is to ride
-In a one horse open sleigh
+  Oh, jingle bells, jingle bells
+  Jingle all the way
+  Oh, what fun it is to ride
+  In a one horse open sleigh 
+  (x2)
 ```
+
 ## Vive le vent
 ```
 Sur le long chemin 
@@ -94,68 +73,79 @@ Qui siffle dans les branches
 Lui souffle la romance 
 Qu'il chantait petit enfant:
 
-Vive le vent, vive le vent 
-Vive le vent d'hiver 
-Qui s'en va sifflant, soufflant 
-Dans les grands sapins verts 
-OH! Vive le temps, vive le temps 
-Vive le temps d'hiver 
-Boule de neige et jour de l'an 
-Et bonne année grand-mère ... 
-```
-# O Tannenbaum 
+  Vive le vent, vive le vent 
+  Vive le vent d'hiver 
+  Qui s'en va sifflant, soufflant 
+  Dans les grands sapins verts 
+  OH! Vive le temps, vive le temps 
+  Vive le temps d'hiver 
+  Boule de neige et jour de l'an 
+  Et bonne année grand-mère ... 
 
-```
-O Tannenbaum, o Tannenbaum,
- Dein Kleid will mich was lehren:
- Die Hoffnung und Beständigkeit
- Gibt Mut und Kraft zu jeder Zeit!
- O Tannenbaum, o Tannenbaum,
- Dein Kleid will mich was lehren!
+    Joyeux joyeux Noël 
+    aux mille bougies 
+    qu'enchantent vers le ciel   
+    les cloches de la nuit.
+    
+  Vive le vent, vive le vent,
+  Vive le vent d'hiver 
+  qui rapporte aux vieux enfants
+  un souvenir d'hier.
 ```
 
-## Mon beau sapin
+### Chords
+```
+```
+
+# Mon beau sapin
 ```
 Mon beau sapin, roi des forêts 
-Que j'aime ta verdure!
-Quand, par l'hiver, bois et guérets 
-Sont dépouillés de leurs attraits 
-Mon beau sapin, roi des forêts 
-Tu gardes ta parure.
+Que j'aime ta verdure! (x2)
+
+  Quand, par l'hiver, bois et guérets 
+  Sont dépouillés de leurs attraits 
+  Mon beau sapin, roi des forêts 
+  Tu gardes ta parure.
 ```
+
 ##  Christmas Tree 
 ```
-O Christmas tree,
-O Christmas tree
-Your leaves are so unchanging
-O Christmas tree,
-O Christmas tree
-Your leaves are so unchanging
+O Christmas tree, O Christmas tree
+Your leaves are so unchanging (x2)
 
-Not only green when Summer’s here
-But also when it’s cold and drear
-O Christmas tree, 
-O Christmas tree
-Your leaves are so unchanging
+  Not only green when Summer’s here
+  But also when it’s cold and drear
+  O Christmas tree, O Christmas tree
+  Your leaves are so unchanging
+```
+
+## O Tannenbaum 
+```
+ O Tannenbaum, o Tannenbaum,
+ Dein Kleid will mich was lehren: (x2)
+ 
+   Die Hoffnung und Beständigkeit
+   Gibt Mut und Kraft zu jeder Zeit!
+   O Tannenbaum, o Tannenbaum,
+   Dein Kleid will mich was lehren!
+```
+
+### Chords
+```
 ```
 
 
-
-# We wish you a Merry Christmas / On se dit Joyeux Noël
-
+# We wish you a Merry Christmas 
 ```
-We wish you a Merry Christmas
-We wish you a Merry Christmas
-We wish you a Merry Christmas
-And a Happy New Year
-Good tidings we bring
-To you and your kin
-We wish you a Merry Christmas
+We wish you a Merry Christmas (x3)
 And a Happy New Year
 
-Now bring us some figgy pudding
-Now bring us some figgy pudding
-Now bring us some figgy pudding
+  Good tidings we bring
+  To you and your kin
+  We wish you a Merry Christmas
+  And a Happy New Year
+
+Now bring us some figgy pudding (x3)
 And a cup of good cheer
 ```
 
@@ -165,68 +155,122 @@ Je te dis joyeux Noël
 Tu me dis joyeux Noël 
 On se dit joyeux Noël 
 Et aussi bonne année
-A tout' la famille
-On dit joyeux Noël
-Et nos voeux pour que brille
-La nouvelle année
+
+  A tout' la famille
+  On dit joyeux Noël
+  Et nos voeux pour que brille
+  La nouvelle année
 
 J'apporte un petit gâteau 
 Tu apportes un petit gâteau 
 On apporte un petit gâteau 
 Petits gâteaux sucrés
+
+Je donne un petit baisé
+Tu donnes un petit baisé
+On donne un petit baisé
+Petits baisers mouillés
+
+Et je ne partirai pas 
+Et tu ne partiras pas 
+Et on ne partira pas 
+Avant davoir chanté
+```
+
+### Chords
+```
 ```
 
 
 
+# Santa Claus is Coming to Town
+```
+You better watch out, you better not cry
+Better not pout, I'm telling you why
+Santa Claus is comin' to town
+
+He's making a list and checking it twice
+Gonna find out who's naughty and nice
+Santa Claus is comin' to town
+
+  He sees you when you're sleepin'
+  He knows when you're a wake
+  He knows if you've been bad or good
+  So be good for goodness sake
+```
+
+## Père Noël Arrive ce Soir
+```
+J’ai vu dans la nuit passer un traîneau, 
+et j’ai vu aussi ton grand ami
+Père Noël arrive ce soir
+
+II allait vers toi dans la cheminée, 
+il allait vers toi pour y déposer
+Des jouets dans ton bas ce soir. 
+
+  Et bien tu devras dormir 
+  sans te faire aucun souci
+  Même si tu n’en as pas envie,
+  tu devras rester au lit.
+```
+
+### Chords
+```
+C F
+C F
+C G C
+
+  F 
+  Am 
+  D7 
+  G
+```
 
 
 # Le p’tit renne au nez rouge 
-
 ```
--1-
-Quand la neige recouvre la verte Finlande 
+(Quand la neige recouvre la verte Finlande 
 Et que les rennes traversent la lande 
 Le vent dans la nuit 
-Au troupeau parle encore de lui 
+Au troupeau parle encore de lui) 
 
-On l'appelait Nez rouge
- Ah ! comme il était mignon !
+ On l'appelait Nez rouge
+ Ah comme il était mignon !
  Le p'tit renne au nez rouge
  Rouge comme un lumignon
+
  Son p'tit nez faisait rire
  Chacun s'en moquait beaucoup
  On allait jusqu'à dire
  Qu'il aimait prendre un p'tit coup.
+ 
+   Une fée qui l'entendit 
+   Pleurer dans le noir
+   Pour le consoler lui dit:
+   Viens au paradis ce soir
 
- Une fée qui l'entendit 
- Pleurer dans le noir
- Pour le consoler lui dit:
- Viens au paradis ce soir
  Comme un ange, Nez rouge
  Tu conduiras dans le ciel
  Avec ton p'tit nez rouge
  Le chariot du Père Noël !  
  
- - 2 -
- Quand ses frères le virent 
- D'allure si leste
- Suivre, très digne
- Les routes célestes
- Devant ses ébats
- Plus d'un renne resta baba. 
- On l'appelait Nez rouge
- Ah ! comme il était mignon !
- Le p'tit renne au nez rouge
- Rouge comme un lumignon
+(Quand ses frères le virent D'allure si leste
+Suivre, très digne les routes célestes
+Devant ses ébats
+Plus d'un renne resta baba. )
+ 
+ Couplet 1,
  Maintenant qu'il entraîne
  Son char à travers les cieux
  C'est lui le roi des rennes
  Et son nez fait des envieux. 
 
- Vous, fillettes et garçons
- Pour la grande nuit
- Si vous savez vos leçons
- Dès que sonnera minuit
+   Vous, fillettes et garçons
+   Pour la grande nuit
+   Si vous savez vos leçons
+   Dès que sonnera minuit
+ 
  Ce petit point qui bouge
  Ainsi qu'une étoile au ciel
  C'est le nez de Nez rouge
@@ -234,7 +278,6 @@ On l'appelait Nez rouge
 ```
 
 ## Rudolph the red-nosed reindeer
-
 ```
 Rudolph the Red Nosed Reindeer 
 Had a very shiny nose, 
@@ -246,26 +289,26 @@ Used to laugh and call him names;
 They never let poor Rudolph 
 Join in any reindeer games.
 
-Then one foggy Christmas Eve, 
-Santa came to say, 
-Rudolph with your nose so bright, 
-Won't you guide my sleigh tonight?
-
+  Then one foggy Christmas Eve, 
+  Santa came to say, 
+  Rudolph with your nose so bright, 
+  Won't you guide my sleigh tonight?
+  
 All of the reindeer loved him,
 And they shouted out with glee
 Rudolph the Red Nosed Reindeer
 You’ll go down in History! X2
 ```
 
+
 ### Chords
-
-
-
-# C’est l’hiver / Let it snow
-
 ```
-FRANÇAIS :
+```
 
+
+
+# C’est l’hiver
+```
 Nous filons sur la neige blanche
 En ce beau jour de dimanche
 À travers les sapins verts
@@ -276,13 +319,14 @@ Chantent la joie de leur âge
 Et les grands murmures de se taire
 C'est l'hiver, c'est l'hiver, c'est l'hiver
 
-ENGLISH :
+  Le bon Dieu dans son paradis
+  Doit aussi chanter avec nous
+  Car la nature est si jolie
+  Le bleu de son ciel est si doux
+```
 
-When we finally kiss goodnight
-How I’ll hate going out in the storm
-And if you only hold me tight,
-All the way home I’ll be warm
-
+## Let it snow
+```
 Oh, the weather outside is frightful
 But the fire is so delightful
 And since we've no place to go
@@ -292,78 +336,42 @@ Man it doesn't show signs of stoppin'
 And I brought some corn for poppin'
 The lights are turned way down low
 Let it snow, let it snow, let it snow
+
+  When we finally kiss goodnight
+  How I’ll hate going out in the storm
+  And if you only hold me tight,
+  All the way home I’ll be warm
+
+The fire is slowly dying
+And my dear we're still goodbye-ing
+As long as you love me so
+Let it snow, let it snow, let it snow
 ```
-
-
-
-
-# Walking in a winter wonderland / Bonhomme hiver
-
-```
-ENGLISH:
-Sleigh bells ring
-Are you listening
-In the lane
-Snow is glistening
-A beautiful sight,
-We're happy tonight
-Walking in a winter wonderland
-
-In the meadow we can build a snowman
-And pretend that he is Parson Brown
-He'll say are you married, We'll say no man
-But you can do the job When you're in town
-Later on
-We'll conspire
-As we dream by the fire
-To face unafraid
-The plans that we've made
-Walking in a winter wonderland
-
-FRANÇAIS :
-Écoutez les clochettes
-Du joyeux temps des fêtes
-Annonçant la joie
-Dans chaque cœur qui bat
-Au royaume du bonhomme hiver
-
-Le voilà qui sourit sur la place
-Son chapeau, sa canne et son foulard
-Il semble nous dire d'un ton bonasse:
-"Ne voyez-vous donc pas qu'il est tard?"
-
-Il dit vrai tout de même
-Près du feu, je t'emmène
-Allons nous chauffer dans l'intimité
-Au royaume du bonhomme hiver
-```		
-
-
 
 
 # Petit Papa Noël
-
 ```
-C'est la belle nuit de Noël
+(C'est la belle nuit de Noël
 La neige étend son manteau blanc
 Et les yeux levés vers le ciel
 À genoux, petits enfants
 Avant de fermer les paupières
-Font une dernière prière.
+Font une dernière prière)
 
 Petit papa Noël
 Quand tu descendras du ciel
 Avec des jouets par milliers
 N'oublie pas mon petit soulier.
+
 Mais avant de partir
 Il faudra bien te couvrir
 Dehors tu vas avoir si froid
 C'est un peu à cause de moi.
 
-Il me tarde tant que le jour se lève
-Pour voir si tu m'as apporté
-Tous les beaux joujoux que je vois en rêve
-Et que je t'ai commandés.
+  Il me tarde tant que le jour se lève
+  Pour voir si tu m'as apporté
+  Tous les beaux joujoux que je vois en rêve
+  Et que je t'ai commandés.
 
 Petit papa Noël
 Quand tu descendras du ciel
@@ -375,10 +383,10 @@ Quand tu descendras du ciel
 Avec des jouets par milliers
 N'oublie pas mon petit soulier.
 
-Et quand tu seras sur ton beau nuage
-Viens d'abord sur notre maison
-Je n'ai pas été tous les jours très sage
-Mais j'en demande pardon.
+  Et quand tu seras sur ton beau nuage
+  Viens d'abord sur notre maison
+  Je n'ai pas été tous les jours très sage
+  Mais j'en demande pardon.
 
 Petit papa Noël
 Quand tu descendras du ciel
@@ -388,17 +396,81 @@ Petit papa Noël
 ```
 
 
-# Douce Nuit Sainte Nuit / Silent night 
+
+# Feliz Navidad 
+```
+feliz navidad (x3)
+prospero año y felicidad 
+
+  I wanna wish you a merry Christmas (x3)
+  From the bottom of my heart
+```
+
+
+# "Jingle Bell Rock"
 
 ```
-1.Be-elle nuit, sain-ainte nuit !
- Tout s'endort, plus de bruit.
-Veille seu-eul, le   couple sacré
+Jingle bell, jingle bell, jingle bell rock
+Jingle bells swing and jingle bells ring
+Snowing and blowing up bushels of fun
+Now the jingle hop has begun
+
+Jingle bell, jingle bell, jingle bell rock
+Jingle bells chime in jingle bell time
+Dancing and prancing in Jingle Bell Square
+In the frosty air
+
+  What a bright time, it's the right time
+  To rock the night away
+  Jingle bell time is a swell time
+  To go gliding in a one-horse sleigh
+  
+Giddy-up jingle horse, pick up your feet
+Jingle around the clock
+Mix and a-mingle in the jingling feet
+That's the jingle bell rock
+
+Jingle bell, jingle bell, jingle bell rock
+Jingle bells chime in jingle bell time
+Dancing and prancing in Jingle Bell Square
+In the frosty air
+
+Jingle bell, jingle bell, jingle bell rock
+Jingle bells chime in jingle bell time
+Snowing and blowing up bushels of fun
+Now the jingle hop has begun
+
+Jingle bell, jingle bell, jingle bell rock
+Jingle bells chime in jingle bell time
+Dancing and prancing in Jingle Bell Square
+In the frosty air
+
+  What a bright time, it's the right time
+  To rock the night away (rock the night away)
+  Jingle bell time is a swell time
+  To go gliding in a one-horse sleigh
+  
+Giddy-up jingle horse, pick up your feet
+Jingle around the clock
+Mix and a-mingle in the jingling feet
+That's the jingle bell
+That's the jingle bell
+That's the jingle bell (rock)
+```
+
+
+
+# Douce Nuit Sainte Nuit 
+
+```
+Be-elle nuit, sain-ainte nuit !
+Tout s'endort, plus de bruit.
+ Veille seu-eul, le   couple sacré
  Doux enfan-ant aux   fin-ins cheveux
   Clos tes   yeux et re  po--s   e.
   Sou-ous ces yeux vigilants.
  
-2. Be-elle nuit, sain-ainte nuit ! 
+Be-elle nuit, sain-ainte nuit ! 
 Dans les champs, les bergers, 
 Par les an-anges a-avertis, 
 Font partou-out retentir leur voix : 
@@ -413,22 +485,23 @@ So-onne l'heure sainte,
 L'heu-eure du-u salut ! 
 ```
 
+## Silent night 
 ```
-1. Silent night, holy night! 
+Silent night, holy night! 
 All is calm, all is bright. 
 Round yon Virgin, Mother and Child. 
 Holy infant so tender and mild, 
 Sleep in heavenly peace, 
 Sleep in heavenly peace. 
 
-2. Silent night, holy night! 
+Silent night, holy night! 
 Shepherds quake at the sight. 
 Glories stream from heaven afar 
 Heavenly hosts sing Alleluia, 
 Christ the Savior is born! 
 Christ the Savior is born. 
 
-3. Silent night, holy night! 
+Silent night, holy night! 
 Son of God love's pure light. 
 Radiant beams from Thy holy face 
 With dawn of redeeming grace, 
@@ -436,45 +509,129 @@ Jesus Lord, at Thy birth.
 Jesus Lord, at Thy birth.
 ```
 
-# Feliz Navidad 
-
+# Walking in a winter wonderland 
 ```
-Español
-feliz navidad 
-feliz navidad 
-feliz navidad 
-prospero año y felicidad 
+Sleigh bells ring
+Are you listening
+In the lane
+Snow is glistening
+A beautiful sight,
+We're happy tonight
+Walking in a winter wonderland
 
-feliz navidad 
-feliz navidad 
-feliz navidad 
-prospero año y felicidad 
+  In the meadow we can build a snowman
+  nd pretend that he is Parson Brown
+  He'll say are you married, We'll say no man
+  But you can do the job When you're in town
+  
+Later on
+We'll conspire
+As we dream by the fire
+To face unafraid
+The plans that we've made
+Walking in a winter wonderland
+```
+## Bonhomme hiver
+```
+Écoutez les clochettes
+Du joyeux temps des fêtes
+Annonçant la joie
+Dans chaque cœur qui bat
+Au royaume du bonhomme hiver
 
-a todos quiero desearles siempre 
-felicidad es un gran presente 
-es el momento de que disfruten 
-en el tiempo de amor y paz 
+  Le voilà qui sourit sur la place
+  Son chapeau, sa canne et son foulard
+  Il semble nous dire d'un ton bonasse:
+  "Ne voyez-vous donc pas qu'il est tard?"
 
-vivan contentos vivan felices 
-
-en el amor dulce sentimiento 
-cantando voy para que me escuchen 
-mucha paz vengan a cantar 
-
-feliz navidad 
-feliz navidad 
-prospero año y felicidad 
-
-feliz navidad 
-feliz navidad 
-feliz navidad 
-prospero año y felicidad
+Il dit vrai tout de même
+Près du feu, je t'emmène
+Allons nous chauffer dans l'intimité
+Au royaume du bonhomme hiver
+```		
 
 
-I wanna wish you a merry Christmas
-I wanna wish you a merry Christmas
-I wanna wish you a merry Christmas
-From the bottom of my heart
+# Frosty the Snowman 
+```
+Frosty the Snowman, Was a jolly happy soul
+With a corncob pipe and a button nose
+And his eyes made out of coal
+
+Frosty the Snowman, Made the children laugh and play
+And were they surprised when
+Before their eyes
+He came to life that day
+
+  There must have been some magic
+  In that old silk hat they found
+  For when they placed it on his head
+  He began to dance around
+
+Frosty the Snowman, Was alive as he could be
+And the children say
+He could laugh and play
+Just the same as you and me
+
+Frosty the Snowman, Knew the sun was hot that day
+So he said let's run
+And we'll have fun
+Now before I melt away
+
+So down to the village
+With a broomstick in his hand
+Running here and there all around the square
+Saying catch me if you can
+He led… 
+He led them down the streets of town
+Right to the traffic cop
+And he only paused a moment when
+He heard him holler stop
+
+Frosty the Snowman, Had to hurry on his way
+But he waved goodbye
+Saying don't you cry
+I'll be back again some day
+Thumpety thump thump
+Thumpety thump thump
+Look at Frosty go
+Thumpety thump thump
+Thumpety thump thump
+Over the hills of snow
+```
+
+## Frosty le bonhomme
+```
+Frosty le bonhomme, le gentil bonhomme d’hiver
+Avec son nez de carotte et ses yeux de boutons
+C’est l’ami des p’tits enfants
+
+Frosty le bonhomme, le gentil bonhomme de neige
+Avec son nez de carotte et ses yeux de boutons
+C’est l’ami du Père Noël
+
+Son chapeau et son foulard
+Il marche dans la rue
+Et quand il voit les p’tits enfants
+Il leur fait des grands saluts
+
+Frosty le bonhomme, le gentil bonhomme d’hiver
+Avec son nez de carotte et ses yeux de boutons
+C’est l’ami des p’tits enfants
+
+Frosty le bonhomme, le gentil bonhomme de neige
+Avec son nez de carotte et ses yeux de boutons
+C’est l’ami du Père Noël
+
+Son chapeau et son foulard
+Il marche dans la rue
+Et quand il voit les p’tits enfants
+Il leur fait des grands saluts
+
+Frosty le bonhomme, le gentil bonhomme d’hiver
+Avec son nez de carotte et ses yeux de boutons
+C’est l’ami du Père Noël
+Frosty,frosty
+Frosty le bonhomme, le gentil bonhomme d’hiver
 ```
 
 
@@ -553,65 +710,48 @@ Make my wish come true
 You
 ```
 
-# Promenade en traîneau / Sleigh Ride
-
+# Promenade en traîneau
 ```
-Au petit trot s'en va le cheval avec  ses grelots 
-et le traîneau joyeusement dévale à  travers les coteaux. 
-
+Au petit trot s'en va le cheval avec ses grelots 
+et le traîneau joyeusement dévale à travers les coteaux. 
 Dans le vallon s'accroche l'hiver mais le ciel est bleu. 
 Ah! Qu'il fait bon faire un tour au grand air comme des amoureux. 
 
-Ho di up ho di up ohé, ohé du traîneau 
-Emmitouflez-vous bien dans vos manteaux 
-Ho di up ho di up ohé pour se tenir chaud 
-L'un contre l'autre on se blottit comme 
-deux moineaux dans un nid. 
+  Ho di up ho di up ohé, ohé du traîneau 
+  Emmitouflez-vous bien dans vos manteaux 
+  Ho di up ho di up ohé pour se tenir chaud 
+  L'un contre l'autre on se blottit comme deux moineaux dans un nid. 
 
-C'es merveilleux de voir défilant comme 
-un décor peint, devant nos yeux les 
+C'est merveilleux de voir défilant comme un décor peint, 
+Devant nos yeux les villages tout blancs et les petits sapins. 
+Parfois tu cries car ça penche un peu, c'est l'instant d'effroi, 
+moi je souris, j'ai le cœur amoureux et le bout du nez froid. 
 
-villages tout blancs et les petits sapins. 
-Parfois tu cries car ça penche un peu, c'est 
-L'instant d'effroi, moi je souris, j'ai le 
-cœur amoureux et le bout du nez froid. 
+    L'attelage a déjà  pris le chemin du retour. 
+    Nous allons être surpris par la tombée du jour, 
+    car c'est l'heure où la nuit sans bruit s'épanouit comme une fleur 
+    et s'allume le ciel qui change de couleurs. 
 
-L'attelage a déjà  pris le chemin du retour. 
-Nous allons être surpris par la tombée du 
-jour, car c'est l'heure où la nuit sans 
-bruit s'épanouit comme une fleur et 
-s'allume le ciel qui change de couleurs. 
+    Mais voici notre maison qui nous fait signe au loin, 
+    sa lumière à  l'horizon scintille comme un point. 
+    Je me vois déjà  près de toi le rire aux yeux, le cœur content, 
+    près du grand feu de bois qui flambe et nous attend. 
 
-Mais voici notre maison qui nous fait 
-signe au loin, sa lumière à  l'horizon 
-scintille comme un point. Je me vois 
-déjà  près de toi le rire aux yeux, le cœur 
-content, près du grand feu de bois qui 
-flambe et nous attend. 
-
-Au petit trot s'en va le cheval avec 
-ses grelots et le traîneau joyeusement 
-dévale à  travers les coteaux.
+Au petit trot s'en va le cheval avec ses grelots 
+et le traîneau joyeusement dévale à  travers les coteaux...
 ```
 
-
+## Sleigh Ride
 ```
-Just hear those sleigh bells jingling,
-ring ting tingling too
-Come on, it's lovely weather
-for a sleigh ride together with you,
-Outside the snow is falling
-and friends are calling "Yoo hoo,"
-Come on, it's lovely weather
-for a sleigh ride together with you.
+Just hear those sleigh bells jingling, ring ting tingling too
+Come on, it's lovely weather for a sleigh ride together with you,
+Outside the snow is falling and friends are calling "Yoo hoo,"
+Come on, it's lovely weather for a sleigh ride together with you.
 
-Giddy up, giddy up, giddy up,
-let's go, Let's look at the show,
-We're riding in a wonderland of snow.
-Giddy up, giddy up, giddy up,
-it's grand, Just holding your hand,
-We're gliding along with a song
-of a wintry fairy land.
+  Giddy up, giddy up, giddy up, let's go, Let's look at the show,
+  We're riding in a wonderland of snow.
+  Giddy up, giddy up, giddy up,it's grand, Just holding your hand,
+  We're gliding along with a song of a wintry fairy land.
 
 Our cheeks are nice and rosy
 and comfy cozy are we
@@ -622,22 +762,156 @@ and sing a chorus or two
 Come on, it's lovely weather
 for a sleigh ride together with you.
 
-There's a birthday party
-at the home of Farmer Gray
-It'll be the perfect ending a perfect day
-We'll be singing the songs
-we love to sing without a single stop,
-At the fireplace while we watch
-the chestnuts pop. Pop! pop! pop!
-There's a happy feeling
-nothing in the world can buy,
+    There's a birthday party at the home of Farmer Gray
+    It'll be the perfect ending a perfect day
+    We'll be singing the songs we love to sing without a single stop,
+    At the fireplace while we watch the chestnuts pop. Pop! pop! pop!
+    
+    There's a happy feeling nothing in the world can buy,
+    When they pass around the chocolate and the pumpkin pie
+    It'll nearly be like a picture print by Currier and Ives
+    These wonderful things are the things we remember all through our lives!
+```
 
-When they pass around the chocolate
-and the pumpkin pie
-It'll nearly be like a picture print
-by Currier and Ives
-These wonderful things are the things
-we remember all through our lives!
+### Chords
+
+```
+Intro:  | Cm7  Am | F  G7  |  
+  
+     G7           Cm7         Am        F        
+Just hear those sleigh bells jingling,
+G7      Cm7  Am  F
+ring-ting-tingling too.
+  
+     G7       Cm7    Am             F             G7 
+Come on, it's lovely weather for a sleigh
+       Cm7  Am  F
+ride together with you.
+  
+   G7       Cm7     Am           F            G7        
+Outside the snow is falling and friends are
+Cm7  Am  F
+calling 'You Hoo!'
+  
+     G7        Cm7    Am           F             G7  
+Come on, it's lovely weather for a sleigh
+       C  F  C
+ride together with you.
+  
+  
+      F#m7                           B7  E        
+Giddy-yap giddy-yap, giddy-yap, let's go,    
+  
+      Cdim         E6  
+Let's look at the snow.   
+  
+A      F#m        A      B7      E     E6   E   E6  
+We're riding in a wonderland of snow.   
+  
+      Em        B+         Em7       A7   Dm7   
+Giddy-yap giddy-yap, giddy-yap, it's grand      
+  
+     F#m7         D6  
+Just holding your hand.   
+  
+Dm7            G7                      Cdim  
+We're gliding along with the song
+Fdim   G7
+of a wintry fairy land.
+  
+  
+     Fdim      Cm7      Am       F 
+Our cheeks are nice and rosy
+    G7      Cm7  Am  F
+and comfy cozy are we.
+  
+       G7      Cm7  Am              F           G7      
+We're snuggled up together like two birds
+   Cm7  Am  F
+of a feather would be.
+  
+       G7      Cm7     Am          F     G7        
+Let's take the road before us and sing a
+Cm7  Am  F
+chorus or two.
+  
+     G7       Cm7    Am             F            G7  
+Come on, it's lovely weather for a sleigh
+       C   F  C
+ride together with you.
+  
+  
+          G        Am7  G/B      C      G  D9 
+There's a birthday party at the home
+ G
+of farmer Gray.
+  
+     G        Am7    G/B    C     G  D9   G6  
+It'll be the perfect ending of a perfect day.   
+  
+ Am7      Em                   Am     Cdim    B7    
+We'll be singing the songs we love to sing
+B7/F#   Em
+without a single stop
+  
+        A                  E7                 A  
+At the fireplace while we watch
+    D7
+the chestnuts pop -- Pop! Pop! Pop!
+  
+  
+          G      Am7    G/B     C      G     D9  
+There's a happy feeling nothing in the
+G
+world can buy
+  
+           G     Am7      G/B    C        G  D9  
+When they pass around the coffee and
+G6
+the pumpkin pie.
+  
+Am7   G                 Am     D7      Cdim     B7 
+It'll nearly be like a picture print by Currier
+    Em
+and Ives.
+  
+G     Am7        G             Am7       
+These wonderful things are the
+ G
+things we remember
+  
+      Am7        G  
+All through our lives.  
+  
+A     Em7        A              Em7      
+These wonderful things are the
+ A
+things we remember
+  
+     Em7         A  
+All through our lives.  
+  
+  
+     A7           Dm7         D6       G/B      
+Just hear those sleigh bells jingling,
+ A7      Dm7  D6 G/B
+ring-ting-tingling too,
+  
+     A7        Dm7    D6           G/B           A7 
+Come on, it's lovely weather for a sleigh
+        D  Bm  G6
+ride together with you,
+  
+    A7       Dm7     D6         G/B         A7          
+Outside the snow is falling and friends are
+Dm7  D6 G/B
+calling 'You Hoo!'
+  
+ A7           Dm7     D6           G/B            A7
+Come on, it's lovely weather for a sleigh
+         Dm7 G/B  D6
+ride together with you.
+
 ```
 
 # Il est né le divin enfant 
@@ -729,178 +1003,6 @@ Là je veux donner pour son retour
  Sur son tambour 
  Sur son tambour
 ``` 
-
-
-# We wish you a Merry Christmas 
-
-```
-We wish you a Merry Christmas; 
- We wish you a Merry Christmas; 
- We wish you a Merry Christmas and a Happy New Year. 
-
- Good tidings we bring to you and your kin; 
- We wish you a merry Christmas 
- and a Happy New Year. 
-
- Oh, bring us a figgy pudding; 
- Oh, bring us a figgy pudding; 
- Oh, bring us a figgy pudding and a cup of good cheer. 
-
- We wish you a Merry Christmas; 
- We wish you a Merry Christmas; 
-  
- We wish you a Merry Christmas and a Happy New Year. 
-
- We won't go until we get some; 
- We won't go until we get some; 
- We won't go until we get some, so bring some out here. 
-
-We wish you a Merry Christmas; 
- We wish you a Merry Christmas; 
- We wish you a Merry Christmas and a Happy New Year.
-```
-
-
-# Frosty the Snowman / Frosty le bonhomme
-
-```
-Frosty the Snowman, Was a jolly happy soul
-With a corncob pipe and a button nose
-And his eyes made out of coal
-
-Frosty the Snowman, Made the children laugh and play
-And were they surprised when
-Before their eyes
-He came to life that day
-There must have been some magic
-In that old silk hat they found
-For when they placed it on his head
-He began to dance around
-
-Frosty the Snowman, Was alive as he could be
-And the children say
-He could laugh and play
-Just the same as you and me
-
-Frosty the Snowman, Knew the sun was hot that day
-So he said let's run
-And we'll have fun
-Now before I melt away
-So down to the village
-With a broomstick in his hand
-Running here and there all around the square
-Saying catch me if you can
-He led… 
-He led them down the streets of town
-Right to the traffic cop
-And he only paused a moment when
-He heard him holler stop
-
-Frosty the Snowman, Had to hurry on his way
-But he waved goodbye
-Saying don't you cry
-I'll be back again some day
-Thumpety thump thump
-Thumpety thump thump
-Look at Frosty go
-Thumpety thump thump
-Thumpety thump thump
-Over the hills of snow
-```
-
-```
-Frosty le bonhomme, le gentil bonhomme d’hiver
-Avec son nez de carotte et ses yeux de boutons
-C’est l’ami des p’tits enfants
-
-Frosty le bonhomme, le gentil bonhomme de neige
-Avec son nez de carotte et ses yeux de boutons
-C’est l’ami du Père Noël
-
-Son chapeau et son foulard
-Il marche dans la rue
-Et quand il voit les p’tits enfants
-Il leur fait des grands saluts
-
-Frosty le bonhomme, le gentil bonhomme d’hiver
-Avec son nez de carotte et ses yeux de boutons
-C’est l’ami des p’tits enfants
-
-Frosty le bonhomme, le gentil bonhomme de neige
-Avec son nez de carotte et ses yeux de boutons
-C’est l’ami du Père Noël
-
-Son chapeau et son foulard
-Il marche dans la rue
-Et quand il voit les p’tits enfants
-Il leur fait des grands saluts
-
-Frosty le bonhomme, le gentil bonhomme d’hiver
-Avec son nez de carotte et ses yeux de boutons
-C’est l’ami du Père Noël
-Frosty,frosty
-Frosty le bonhomme, le gentil bonhomme d’hiver
-```
-
-
-# "Jingle Bell Rock"
-
-```
-Jingle bell, jingle bell, jingle bell rock
-Jingle bells swing and jingle bells ring
-Snowing and blowing up bushels of fun
-Now the jingle hop has begun
-
-Jingle bell, jingle bell, jingle bell rock
-Jingle bells chime in jingle bell time
-Dancing and prancing in Jingle Bell Square
-In the frosty air
-
-What a bright time, it's the right time
-To rock the night away
-Jingle bell time is a swell time
-To go gliding in a one-horse sleigh
-
-Giddy-up jingle horse, pick up your feet
-Jingle around the clock
-Mix and a-mingle in the jingling feet
-
-That's the jingle bell rock
-
-Jingle bell, jingle bell, jingle bell rock
-Jingle bells chime in jingle bell time
-Dancing and prancing in Jingle Bell Square
-In the frosty air
-
-Jingle bell, jingle bell, jingle bell rock
-Jingle bells chime in jingle bell time
-Snowing and blowing up bushels of fun
-Now the jingle hop has begun
-
-Jingle bell, jingle bell, jingle bell rock
-Jingle bells chime in jingle bell time
-Dancing and prancing in Jingle Bell Square
-In the frosty air
-
-What a bright time, it's the right time
-To rock the night away (rock the night away)
-Jingle bell time is a swell time
-To go gliding in a one-horse sleigh
-Giddy-up jingle horse, pick up your feet
-Jingle around the clock
-
-Mix and a-mingle in the jingling feet
-That's the jingle bell
-That's the jingle bell
-That's the jingle bell (rock)
-
-Jingle bell, jingle bell, jingle bell rock
-
-Jingle bell, jingle bell, jingle bell rock
-Jingle bell, jingle bell, jingle bell rock
-
-Woah
-```
 
 # I Saw Mommy Kissing Santa Claus" 
 
@@ -1364,7 +1466,24 @@ Bountiful Night
 
 ```
  (Ukrainian) 
-Щедрик ?????? ??????, 
+Щедрик 
+
+Щедрик, щедрик, щедрівочка,
+Прилетіла ластівочка,
+Стала собі щебетати,
+Господаря викликати:
+– Вийди, вийди, господарю,
+Подивися на кошару,
+Там овечки покотились,
+А ягнички народились.
+В тебе товар весь хороший,
+Будеш мати мірку грошей.
+Хоч не гроші, то полова,
+В тебе жінка чорноброва.
+Щедрик, щедрик, щедрівочка,
+Прилетіла ластівочка.
+
+?????? ??????, 
 ????i?????,
 ????e?i?? ????i?????,
 ????? ???i ????????,

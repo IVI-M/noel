@@ -3,8 +3,15 @@ title: "Bilingual Christmas carols"
 author: "IVIM"
 documentclass: book
 site: bookdown::bookdown_site
+<<<<<<< HEAD
 subtitle: Chansons de Noël bilangues
 description: Christmas song favourites for multi-lingual families, with chords
+=======
+subtitle: "Chansons de Noël  bilangues"
+description: "Christmas song favourites for multi-lingual families, with chords"
+#date: multi-lingual, "With chords" and analyzed using Data Science 
+author: "Compiled by IVIM"
+>>>>>>> eeb1d1cacfe79866ebc774dac4483766c3630579
 ---
 
 # Intro {-}
@@ -15,6 +22,18 @@ Also available as [pdf] and [epub]
 knitr::include_graphics("cover-xmas.jpg")
 
 ```
+
+
+Easy tunes 
+
+Rock tunes 
+
+Mellow tunes 
+
+Jazz tunes
+
+New original tunes 
+
 
 Les 50 meilleures chansons de Noël 
 
