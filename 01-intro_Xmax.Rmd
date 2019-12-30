@@ -407,7 +407,7 @@ prospero año y felicidad
 ```
 
 
-# "Jingle Bell Rock"
+# Jingle Bell Rock
 
 ```
 Jingle bell, jingle bell, jingle bell rock
@@ -1004,9 +1004,39 @@ Là je veux donner pour son retour
  Sur son tambour
 ``` 
 
-# I Saw Mommy Kissing Santa Claus" 
+## Drummer Boy
+```
+Come, they told me
+Pa rum pum pum pum
+Our newborn King to see
+Pa rum pum pum pum
+Our finest gifts we bring
+Pa rum pum pum pum
+To lay before the King
+Pa rum pum pum pum
+Ra pum pum pum
+Ra pum pum pum
+Ra pum pum pum
+Ra pum pum pum pum pum
+Yeah, I'm on the drum
+Yeah, I'm on the stand drum
+Yeah, I'm on the beat 'cause the beat goes dumb
+And they only spare heat 'cause I'm playing for the sun
+Playing for the King, playing for the title
+I'm surprised you didn't hear this in the Bible
+I'm so tight I might go psycho
+Christmas time so here's a recital
+I'm so bad like Michael I know
+I'm still young but I go I go
+Stupid, stupid, love like cupid
+I'ma drummer boy so do, do
+Little baby
+Pa rum pum pum pum
+I am a poor boy too
+Pa rum pum pum pum (gather round the mistletoe real quick)… 
+```
 
-## J'ai vu maman embrasser le Père Noël
+# I Saw Mommy Kissing Santa Claus" 
 
 ```
 Wow, mommy's kissing Santa Claus
@@ -1043,6 +1073,10 @@ I did, I did, I really did see mommy kissing Santa Claus
 You gotta believe me, you just gotta believe me
 Come on, fellas, believe me, you just gotta believe me
 ```
+
+
+## J'ai vu maman embrasser le Père Noël
+
 
 ```
 C'est Noël, et comme chaque année
@@ -1144,42 +1178,6 @@ Simply having a wonderful Christmas time
 Oh, Christmas time
 ```
 
-
-# Let It Snow! Let It Snow! Let It Snow! 
-
-```
-Oh, the weather outside is frightful
-But the fire is so delightful
-And since we've no place to go
-Let it snow, let it snow, let it snow
-
-Man, it doesn't show signs of stopping
-And I've brought me some corn for popping
-The lights are turned way down low
-Let it snow, let it snow
-
-When we finally kiss goodnight
-How I'll hate going out in the storm
-But if you really hold me tight
-All the way home I'll be warm
-
-And the fire is slowly dying
-And, my dear, we're still goodbying
-But as long as you love me so
-Let it snow, let it snow, and snow
-
-When we finally kiss goodnight
-How I'll hate going out in the storm
-But if you really grab me tight
-All the way home I'll be warm
-
-Oh, the fire is slowly dying
-And, my dear, we're still goodbying
-But as long as you love me so
-Let it snow, let it snow, let it snow
-```
-
-
 # Run Rudolph Run 
 
 
@@ -1214,7 +1212,7 @@ Run, run Rudolph 'cause I'm reelin' like a merry-go-round
 
 
 
-# Les anges dans nos campagnes / Angels We've Heard On (In Excelsis Deo)
+# Les anges dans nos campagnes 
 
 ```
 Les anges dans nos campagnes 
@@ -1260,6 +1258,7 @@ Gloria in excelsis Deo
 Gloria in excelsis Deo
 ```
 
+## Angels We've Heard On (In Excelsis Deo)
 ```
 ENGLISH: 
 Angels we have heard on high,
@@ -1294,7 +1293,7 @@ Gloria in excelsis Deo.
 
 
 
-# Voici le Père Noël / Here Comes Santa Claus 
+# Voici le Père Noël 
 
 ```
 - 1 -
@@ -1331,6 +1330,7 @@ Gloria in excelsis Deo.
  Qui revient parmi nous.
 ```
 
+## Here Comes Santa Claus 
 ```
 Here Comes Santa Claus (Right Down Santa Claus Lane)
 Here comes Santa Claus, here comes Santa Claus right down Santa Claus Lane
@@ -1425,7 +1425,7 @@ Dernier refrain
 
 
 
-# Carol of the Bells - Щедрик (Shchedryk)
+# Carol of the Bells (Shchedryk)
 
 
 ```
@@ -1437,6 +1437,7 @@ Christmas is here,
 bringing good cheer, 
 to young and old, 
 meek and the bold.
+
 Ding dong ding dong 
 that is their song 
 with joyful ring 
@@ -1445,24 +1446,28 @@ One seems to hear
 words of good cheer 
 from everywhere 
 filling the air.
+
 Oh how they pound, 
 raising the sound, 
 o'er hill and dale, 
 telling their tale.
+
 Gaily they ring 
 while people sing 
 songs of good cheer, 
 Christmas is here.
+
 Merry, Merry, Merry, Merry Christmas, 
 Merry, Merry, Merry, Merry Christmas.
+
 On on they send, 
 on without end, 
 their joyful tone 
 to every home.
 Ding dong ding... dong!
-?????? (Shchedryk) 
-Bountiful Night
+
 ```
+## Щедрик (Bountiful Night)
 
 ```
  (Ukrainian) 
@@ -1542,7 +1547,6 @@ It's the most wonderful time of the year
 # The Christmas Song (Merry Christmas to You) 
 
 ```
-Version on Seasons Greetings:
 Chestnuts roasting on an open fire
 Jack Frost nipping at your nose
 Yuletide carols being sung by a choir
@@ -1578,6 +1582,7 @@ Merry Christmas to you
 
 
 # Christmas Time
+
 Bryan Adams
 
 ```
@@ -1658,9 +1663,9 @@ So have yourself a merry little Christmas
 
 # It's Beginning to Look a Lot Like Christmas
 
-```
-Songwriters: Meredith Willson
+Songwriter: Meredith Willson
 
+```
 It's beginning to look a lot like Christmas
 Everywhere you go
 Take a look at the five and ten, it's glistening once again

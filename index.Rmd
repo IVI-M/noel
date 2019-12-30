@@ -1,5 +1,5 @@
 --- 
-title: "Christmas carols"
+title: "Christmas carols"   
 #author: "IVIM"
 documentclass: book
 site: bookdown::bookdown_site
@@ -10,7 +10,7 @@ description: Christmas song favourites for multi-lingual families, with chords
 
 # Intro {-}
 
-Also available as [pdf] and [epub]
+  Also available as [pdf] and [epub]
 
 ```{r, out.width='50%', fig.align='center', echo=FALSE}
 knitr::include_graphics("cover-xmas.jpg")
