@@ -349,6 +349,7 @@ Let it snow, let it snow, let it snow
 ```
 
 
+
 # Petit Papa Noël
 ```
 (C'est la belle nuit de Noël
@@ -1364,66 +1365,6 @@ So let's give thanks to the Lord above 'cause Santa Claus comes tonight
 ```
 
 
-# Le jour de l'An
-
-```
-- 1 -
- Préparons-nous, son père
- Pour fêter l' jour de l'An
- J'vais faire des bonnes tourtières
- Un bon ragoût d'l'ancien temps.
-
-Refrain
- C'est dans l'temps du jour de l'An
- On s'donne la main, on s'embrasse
- C'est l'bon temps d'en profiter
- Ça arrive rien qu'une fois par année.
-
-- 2 -
- Peinture ton "koteur"
- Va ferrer ta jument
- On ira voir ta soeur
- Dans l'fond du cinquième rang.
-
-- 3 -
- Va t'acheter une perruque
- Fais-toi poser des dents
- C'est vrai t'as rien qu' moi à plaire 
- Mais tu s'rais plus ragoûtant.
-
-- 4 -
- Ti-Blanc à ton oncle Nazaire
- Doit venir au jour de l'An
- Montres-y ton savoir-faire
- Comme tu dansais dans ton jeune temps.
-
-- 5 -
- Tâche pas de perdre la tête
- Comme t'as fait il y a deux ans
- T'as commencé à voir clair
- Quand t'avais plus d'argent.
-
-- 6 -
- Y'en a qui vont prendre un verre
- Y vont profiter de c'temps-là
- Aujourd'hui ça coûte si cher
- Y'a tant de monde qui travaille pas.
-
-- 7 -
- Il y en a qui sentent la pipe
- Et d'autres qui sentent les oignons
- J'aime bien mieux vous l'dire tout-de-suite
- La plupart sentent la boisson.
-
-Dernier refrain
- C'est dans l'temps du jour de l'An
- On s'donne la main, on s'embrasse
- C'est l'bon temps d'en profiter
- Ça dure rien qu'une fois par année.
-```
-
-
-
 
 # Carol of the Bells (Shchedryk)
 
@@ -1699,4 +1640,65 @@ On your own front door
 
 Sure it's Christmas, once more
 ```
+
+
+
+# Le jour de l'An
+
+```
+- 1 -
+ Préparons-nous, son père
+ Pour fêter l' jour de l'An
+ J'vais faire des bonnes tourtières
+ Un bon ragoût d'l'ancien temps.
+
+Refrain
+ C'est dans l'temps du jour de l'An
+ On s'donne la main, on s'embrasse
+ C'est l'bon temps d'en profiter
+ Ça arrive rien qu'une fois par année.
+
+- 2 -
+ Peinture ton "koteur"
+ Va ferrer ta jument
+ On ira voir ta soeur
+ Dans l'fond du cinquième rang.
+
+- 3 -
+ Va t'acheter une perruque
+ Fais-toi poser des dents
+ C'est vrai t'as rien qu' moi à plaire 
+ Mais tu s'rais plus ragoûtant.
+
+- 4 -
+ Ti-Blanc à ton oncle Nazaire
+ Doit venir au jour de l'An
+ Montres-y ton savoir-faire
+ Comme tu dansais dans ton jeune temps.
+
+- 5 -
+ Tâche pas de perdre la tête
+ Comme t'as fait il y a deux ans
+ T'as commencé à voir clair
+ Quand t'avais plus d'argent.
+
+- 6 -
+ Y'en a qui vont prendre un verre
+ Y vont profiter de c'temps-là
+ Aujourd'hui ça coûte si cher
+ Y'a tant de monde qui travaille pas.
+
+- 7 -
+ Il y en a qui sentent la pipe
+ Et d'autres qui sentent les oignons
+ J'aime bien mieux vous l'dire tout-de-suite
+ La plupart sentent la boisson.
+
+Dernier refrain
+ C'est dans l'temps du jour de l'An
+ On s'donne la main, on s'embrasse
+ C'est l'bon temps d'en profiter
+ Ça dure rien qu'une fois par année.
+```
+
 
