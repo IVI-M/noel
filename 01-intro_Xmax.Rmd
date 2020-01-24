@@ -35,7 +35,7 @@ Fa la la la la la la la la
   Fa la la la la la la la la
 ```
 
-### Chords
+## Chords
 ```
 C  G  C 
 C  G  C
@@ -93,8 +93,17 @@ Qu'il chantait petit enfant:
   un souvenir d'hier.
 ```
 
-### Chords
+## Chords
 ```
+C
+Dm
+G
+C
+
+C C
+C C
+F C
+D G
 ```
 
 # Mon beau sapin
@@ -396,6 +405,28 @@ N'oublie pas mon petit soulier.
 Petit papa Noël
 ```
 
+## Chords
+```
+C
+Am
+G F
+C
+F C
+G G7 C
+
+
+C
+C (Fm) C
+F C
+D G
+
+
+Am F
+Am G
+G# A#
+D# F G
+
+```
 
 
 # Feliz Navidad 
@@ -407,6 +438,10 @@ prospero año y felicidad
   From the bottom of my heart
 ```
 
+
+## Chords
+```
+```
 
 # Jingle Bell Rock
 
@@ -459,6 +494,9 @@ That's the jingle bell
 That's the jingle bell (rock)
 ```
 
+### Chords
+```
+```
 
 
 # Douce Nuit Sainte Nuit 
@@ -510,6 +548,10 @@ Jesus Lord, at Thy birth.
 Jesus Lord, at Thy birth.
 ```
 
+## Chords
+```
+```
+
 # Walking in a winter wonderland 
 ```
 Sleigh bells ring
@@ -532,6 +574,23 @@ To face unafraid
 The plans that we've made
 Walking in a winter wonderland
 ```
+
+## Chords
+```
+C
+C
+G
+G
+G7
+G G7 C
+
+E H E
+E H E
+G D G
+G D G
+```
+
+
 ## Bonhomme hiver
 ```
 Écoutez les clochettes
@@ -550,6 +609,8 @@ Près du feu, je t'emmène
 Allons nous chauffer dans l'intimité
 Au royaume du bonhomme hiver
 ```		
+
+
 
 
 # Frosty the Snowman 
@@ -599,6 +660,11 @@ Thumpety thump thump
 Thumpety thump thump
 Over the hills of snow
 ```
+
+## Chords
+```
+```
+
 
 ## Frosty le bonhomme
 ```
@@ -711,6 +777,12 @@ Make my wish come true
 You
 ```
 
+
+## Chords
+```
+```
+
+
 # Promenade en traîneau
 ```
 Au petit trot s'en va le cheval avec ses grelots 
@@ -774,7 +846,7 @@ for a sleigh ride together with you.
     These wonderful things are the things we remember all through our lives!
 ```
 
-### Chords
+## Chords
 
 ```
 Intro:  | Cm7  Am | F  G7  |  
@@ -961,6 +1033,10 @@ Venez adorer cet enfant !
 ```
 
 
+## Chords
+```
+```
+
 
 # L'enfant au tambour
 
@@ -1037,6 +1113,11 @@ I am a poor boy too
 Pa rum pum pum pum (gather round the mistletoe real quick)… 
 ```
 
+## Chords
+```
+```
+
+
 # I Saw Mommy Kissing Santa Claus" 
 
 ```
@@ -1075,6 +1156,11 @@ You gotta believe me, you just gotta believe me
 Come on, fellas, believe me, you just gotta believe me
 ```
 
+
+
+## Chords
+```
+```
 
 ## J'ai vu maman embrasser le Père Noël
 
@@ -1331,6 +1417,12 @@ Gloria in excelsis Deo.
  Qui revient parmi nous.
 ```
 
+
+## Chords
+```
+```
+
+
 ## Here Comes Santa Claus 
 ```
 Here Comes Santa Claus (Right Down Santa Claus Lane)
@@ -1429,29 +1521,13 @@ Ding dong ding... dong!
 Щедрик, щедрик, щедрівочка,
 Прилетіла ластівочка.
 
-?????? ??????, 
-????i?????,
-????e?i?? ????i?????,
-????? ???i ????????,
-????????? ?????????:
 
-"?????, ?????, ?????????,
-???????? ?? ??????,
-??? ?????? ??????????,
-? ??????? ??????????.
-
-? ???? ????? ???? ???????,
-????? ???? ?i??? ??????,
-? ???? ????? ???? ???????,
-????? ???? ?i??? ??????,
-??? ?? ??????, ?? ??????:
-? ???? ?i??? ??????????."
-
-?????? ??????, 
-????i?????,
-????e?i?? ????i?????.
 ```
 
+
+## Chords
+```
+```
 
 
 # It's the Most Wonderful Time of the Year
@@ -1483,6 +1559,12 @@ And hearts will be glowing
 When loved ones are near
 It's the most wonderful time of the year
 ```
+
+
+## Chords
+```
+```
+
 
 
 # The Christmas Song (Merry Christmas to You) 
@@ -1520,6 +1602,10 @@ Merry Christmas
 Merry Christmas to you
 ```
 
+
+## Chords
+```
+```
 
 
 # Christmas Time
@@ -1569,6 +1655,12 @@ Says that Christmas will never go away
 
 ```
 
+
+## Chords
+```
+```
+
+
 # Have Yourself A Merry Little Christmas
 
 Sam Smith    
@@ -1598,6 +1690,10 @@ So have yourself a merry little Christmas
 ```
 
 
+
+## Chords
+```
+```
 
 
 
@@ -1639,6 +1735,10 @@ But the prettiest sight to see is the holly that will be
 On your own front door
 
 Sure it's Christmas, once more
+```
+
+## Chords
+```
 ```
 
 
@@ -1702,3 +1802,7 @@ Dernier refrain
 ```
 
 
+
+## Chords
+```
+```

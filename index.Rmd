@@ -10,19 +10,19 @@ description: Christmas songs  for multi-lingual families, with chords
 
 <!-- # Les 30 meilleures chansons de Noël {-} -->
 
-  Also available as [pdf] and [epub]
+  <!-- Also available as [pdf] and [epub] -->
   
 #  Merry Christmas, tout le monde ! {-} 
 
 
-Songs are roughly ordered to according to the following classifications:
+<!-- Songs are roughly ordered to according to the following classifications: -->
 
-- Easy tunes (bilungual)
-- Rock tunes 
-- Mellow tunes 
-- New tunes  
-- New Year songs
-- Other winter songs
+<!-- - Easy tunes (bilingual) -->
+<!-- - Rock tunes  -->
+<!-- - Mellow tunes  -->
+<!-- - New tunes   -->
+<!-- - New Year songs -->
+<!-- - Other winter songs -->
 
 
 <!-- ![](png/noel-cloud-eng-col1.png) ![](png/noel-cloud-fre-col.png) -->
@@ -48,4 +48,4 @@ knitr::include_graphics(c("png/noel-cloud-eng-col1.png","png/noel-cloud-fre-col.
 
 This book is built using bookdown. The lyrics is analyzed using R. The source is at github. Contributions and corrections are welcome.
 
-Pdf file is generated  [www.online-converted.com](here)
+Pdf file is generated  [https://ebook.online-convert.com/convert-to-pdf](here)
