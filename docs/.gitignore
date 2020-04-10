@@ -1,4 +1,4 @@
-_book/*
+/_book/*
 _book/
 /_book/
 # History files
@@ -28,4 +28,4 @@ vignettes/*.pdf
 # Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
 rsconnect/
 .Rproj.user
-Rplot-e1.png
+Noel.epub
